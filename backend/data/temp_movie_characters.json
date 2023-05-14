@@ -1,0 +1,460 @@
+{
+	"test_movie_character": [
+		{
+			"character_id": 1,
+			"movie_id": 1
+		},
+		{
+			"character_id": 1,
+			"movie_id": 2
+		},
+		{
+			"character_id": 1,
+			"movie_id": 3
+		},
+		{
+			"character_id": 1,
+			"movie_id": 4
+		},
+		{
+			"character_id": 1,
+			"movie_id": 5
+		},
+		{
+			"character_id": 1,
+			"movie_id": 6
+		},
+		{
+			"character_id": 1,
+			"movie_id": 7
+		},
+		{
+			"character_id": 1,
+			"movie_id": 8
+		},
+		{
+			"character_id": 2,
+			"movie_id": 1
+		},
+		{
+			"character_id": 2,
+			"movie_id": 2
+		},
+		{
+			"character_id": 2,
+			"movie_id": 3
+		},
+		{
+			"character_id": 2,
+			"movie_id": 4
+		},
+		{
+			"character_id": 2,
+			"movie_id": 5
+		},
+		{
+			"character_id": 2,
+			"movie_id": 6
+		},
+		{
+			"character_id": 2,
+			"movie_id": 7
+		},
+		{
+			"character_id": 2,
+			"movie_id": 8
+		},
+		{
+			"character_id": 3,
+			"movie_id": 1
+		},
+		{
+			"character_id": 3,
+			"movie_id": 2
+		},
+		{
+			"character_id": 3,
+			"movie_id": 3
+		},
+		{
+			"character_id": 3,
+			"movie_id": 4
+		},
+		{
+			"character_id": 3,
+			"movie_id": 5
+		},
+		{
+			"character_id": 3,
+			"movie_id": 6
+		},
+		{
+			"character_id": 3,
+			"movie_id": 7
+		},
+		{
+			"character_id": 3,
+			"movie_id": 8
+		},
+		{
+			"character_id": 4,
+			"movie_id": 5
+		},
+		{
+			"character_id": 4,
+			"movie_id": 6
+		},
+		{
+			"character_id": 4,
+			"movie_id": 7
+		},
+		{
+			"character_id": 4,
+			"movie_id": 8
+		},
+		{
+			"character_id": 5,
+			"movie_id": 2
+		},
+		{
+			"character_id": 6,
+			"movie_id": 1
+		},
+		{
+			"character_id": 6,
+			"movie_id": 2
+		},
+		{
+			"character_id": 6,
+			"movie_id": 3
+		},
+		{
+			"character_id": 6,
+			"movie_id": 5
+		},
+		{
+			"character_id": 6,
+			"movie_id": 7
+		},
+		{
+			"character_id": 7,
+			"movie_id": 4
+		},
+		{
+			"character_id": 8,
+			"movie_id": 1
+		},
+		{
+			"character_id": 8,
+			"movie_id": 2
+		},
+		{
+			"character_id": 8,
+			"movie_id": 3
+		},
+		{
+			"character_id": 8,
+			"movie_id": 4
+		},
+		{
+			"character_id": 8,
+			"movie_id": 5
+		},
+		{
+			"character_id": 8,
+			"movie_id": 6
+		},
+		{
+			"character_id": 8,
+			"movie_id": 7
+		},
+		{
+			"character_id": 8,
+			"movie_id": 8
+		},
+		{
+			"character_id": 9,
+			"movie_id": 5
+		},
+		{
+			"character_id": 9,
+			"movie_id": 7
+		},
+		{
+			"character_id": 10,
+			"movie_id": 1
+		},
+		{
+			"character_id": 10,
+			"movie_id": 2
+		},
+		{
+			"character_id": 10,
+			"movie_id": 3
+		},
+		{
+			"character_id": 10,
+			"movie_id": 4
+		},
+		{
+			"character_id": 10,
+			"movie_id": 5
+		},
+		{
+			"character_id": 10,
+			"movie_id": 6
+		},
+		{
+			"character_id": 10,
+			"movie_id": 7
+		},
+		{
+			"character_id": 10,
+			"movie_id": 8
+		},
+		{
+			"character_id": 11,
+			"movie_id": 1
+		},
+		{
+			"character_id": 11,
+			"movie_id": 2
+		},
+		{
+			"character_id": 11,
+			"movie_id": 3
+		},
+		{
+			"character_id": 11,
+			"movie_id": 4
+		},
+		{
+			"character_id": 11,
+			"movie_id": 5
+		},
+		{
+			"character_id": 11,
+			"movie_id": 6
+		},
+		{
+			"character_id": 11,
+			"movie_id": 7
+		},
+		{
+			"character_id": 11,
+			"movie_id": 8
+		},
+		{
+			"character_id": 12,
+			"movie_id": 2
+		},
+		{
+			"character_id": 12,
+			"movie_id": 4
+		},
+		{
+			"character_id": 13,
+			"movie_id": 1
+		},
+		{
+			"character_id": 13,
+			"movie_id": 2
+		},
+		{
+			"character_id": 13,
+			"movie_id": 3
+		},
+		{
+			"character_id": 13,
+			"movie_id": 4
+		},
+		{
+			"character_id": 13,
+			"movie_id": 5
+		},
+		{
+			"character_id": 13,
+			"movie_id": 6
+		},
+		{
+			"character_id": 13,
+			"movie_id": 7
+		},
+		{
+			"character_id": 13,
+			"movie_id": 8
+		},
+		{
+			"character_id": 14,
+			"movie_id": 1
+		},
+		{
+			"character_id": 14,
+			"movie_id": 2
+		},
+		{
+			"character_id": 14,
+			"movie_id": 3
+		},
+		{
+			"character_id": 14,
+			"movie_id": 4
+		},
+		{
+			"character_id": 14,
+			"movie_id": 5
+		},
+		{
+			"character_id": 14,
+			"movie_id": 6
+		},
+		{
+			"character_id": 14,
+			"movie_id": 7
+		},
+		{
+			"character_id": 14,
+			"movie_id": 8
+		},
+		{
+			"character_id": 15,
+			"movie_id": 4
+		},
+		{
+			"character_id": 15,
+			"movie_id": 5
+		},
+		{
+			"character_id": 15,
+			"movie_id": 6
+		},
+		{
+			"character_id": 15,
+			"movie_id": 7
+		},
+		{
+			"character_id": 16,
+			"movie_id": 4
+		},
+		{
+			"character_id": 17,
+			"movie_id": 1
+		},
+		{
+			"character_id": 17,
+			"movie_id": 2
+		},
+		{
+			"character_id": 17,
+			"movie_id": 3
+		},
+		{
+			"character_id": 17,
+			"movie_id": 4
+		},
+		{
+			"character_id": 17,
+			"movie_id": 5
+		},
+		{
+			"character_id": 17,
+			"movie_id": 6
+		},
+		{
+			"character_id": 17,
+			"movie_id": 8
+		},
+		{
+			"character_id": 18,
+			"movie_id": 5
+		},
+		{
+			"character_id": 18,
+			"movie_id": 6
+		},
+		{
+			"character_id": 18,
+			"movie_id": 7
+		},
+		{
+			"character_id": 18,
+			"movie_id": 8
+		},
+		{
+			"character_id": 19,
+			"movie_id": 2
+		},
+		{
+			"character_id": 19,
+			"movie_id": 7
+		},
+		{
+			"character_id": 19,
+			"movie_id": 8
+		},
+		{
+			"character_id": 20,
+			"movie_id": 1
+		},
+		{
+			"character_id": 20,
+			"movie_id": 2
+		},
+		{
+			"character_id": 20,
+			"movie_id": 3
+		},
+		{
+			"character_id": 20,
+			"movie_id": 4
+		},
+		{
+			"character_id": 20,
+			"movie_id": 5
+		},
+		{
+			"character_id": 20,
+			"movie_id": 6
+		},
+		{
+			"character_id": 20,
+			"movie_id": 7
+		},
+		{
+			"character_id": 20,
+			"movie_id": 8
+		},
+		{
+			"character_id": 21,
+			"movie_id": 1
+		},
+		{
+			"character_id": 21,
+			"movie_id": 2
+		},
+		{
+			"character_id": 21,
+			"movie_id": 3
+		},
+		{
+			"character_id": 21,
+			"movie_id": 4
+		},
+		{
+			"character_id": 21,
+			"movie_id": 5
+		},
+		{
+			"character_id": 21,
+			"movie_id": 6
+		},
+		{
+			"character_id": 21,
+			"movie_id": 7
+		},
+		{
+			"character_id": 21,
+			"movie_id": 8
+		}
+	]
+}

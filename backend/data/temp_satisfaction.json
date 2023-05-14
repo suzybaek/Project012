@@ -1,0 +1,124 @@
+{
+	"test_satisfaction": [
+		{
+			"user_id": "test1",
+			"movie_id": 1,
+			"user_rating": 10
+		},
+		{
+			"user_id": "test1",
+			"movie_id": 2,
+			"user_rating": 9.8
+		},
+		{
+			"user_id": "test1",
+			"movie_id": 3,
+			"user_rating": 5.7
+		},
+		{
+			"user_id": "test1",
+			"movie_id": 4,
+			"user_rating": 8.9
+		},
+		{
+			"user_id": "test1",
+			"movie_id": 5,
+			"user_rating": 7.6
+		},
+		{
+			"user_id": "test1",
+			"movie_id": 6,
+			"user_rating": 8.5
+		},
+		{
+			"user_id": "test1",
+			"movie_id": 7,
+			"user_rating": 10
+		},
+		{
+			"user_id": "test1",
+			"movie_id": 8,
+			"user_rating": 8.6
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 1,
+			"user_rating": 2.7
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 2,
+			"user_rating": 9.2
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 3,
+			"user_rating": 9.7
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 4,
+			"user_rating": 5.7
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 5,
+			"user_rating": 7.7
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 6,
+			"user_rating": 7.5
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 7,
+			"user_rating": 9
+		},
+		{
+			"user_id": "test2",
+			"movie_id": 8,
+			"user_rating": 5.8
+		},
+		{
+			"user_id": "test3",
+			"movie_id": 1,
+			"user_rating": 6.1
+		},
+		{
+			"user_id": "test3",
+			"movie_id": 2,
+			"user_rating": 5.8
+		},
+		{
+			"user_id": "test3",
+			"movie_id": 3,
+			"user_rating": 5.7
+		},
+		{
+			"user_id": "test4",
+			"movie_id": 4,
+			"user_rating": 3.9
+		},
+		{
+			"user_id": "test5",
+			"movie_id": 5,
+			"user_rating": 4.6
+		},
+		{
+			"user_id": "test6",
+			"movie_id": 6,
+			"user_rating": 7.5
+		},
+		{
+			"user_id": "test7",
+			"movie_id": 7,
+			"user_rating": 1.5
+		},
+		{
+			"user_id": "test8",
+			"movie_id": 8,
+			"user_rating": 5.6
+		}
+	]
+}

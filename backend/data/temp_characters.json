@@ -1,0 +1,109 @@
+{
+	"test_character": [
+		{
+			"mbti": "ISFP",
+			"name": "Harry Potter",
+			"image_link": "https://www.personality-database.com/profile_images/708.png?=undefined"
+		},
+		{
+			"mbti": "ESTJ",
+			"name": "Hermione Granger",
+			"image_link": "https://www.personality-database.com/profile_images/710.png?=undefined"
+		},
+		{
+			"mbti": "ESFP",
+			"name": "Ron Weasley",
+			"image_link": "https://www.personality-database.com/profile_images/709.png?=undefined"
+		},
+		{
+			"mbti": "ESFP",
+			"name": "Bellatrix Lestrange",
+			"image_link": "https://www.personality-database.com/profile_images/4045.png?=undefined"
+		},
+		{
+			"mbti": "ESFP",
+			"name": "Gilderoy Lockhart",
+			"image_link": "https://www.personality-database.com/profile_images/3546.png?=undefined"
+		},
+		{
+			"mbti": "ESFP",
+			"name": "Dudley Dursley",
+			"image_link": "https://www.personality-database.com/profile_images/13735.png?=undefined"
+		},
+		{
+			"mbti": "ESFJ",
+			"name": "Cedric Diggory",
+			"image_link": "https://www.personality-database.com/profile_images/3822.png?=undefined"
+		},
+		{
+			"mbti": "ESTJ",
+			"name": "Draco Malfoy",
+			"image_link": "https://www.personality-database.com/profile_images/713.png?=undefined"
+		},
+		{
+			"mbti": "ESTJ",
+			"name": "Dolores Umbridge",
+			"image_link": "https://www.personality-database.com/profile_images/2946.png?=undefined"
+		},
+		{
+			"mbti": "ENTP",
+			"name": "Fred Weasley",
+			"image_link": "https://www.personality-database.com/profile_images/718.png?=undefined"
+		},
+		{
+			"mbti": "ENTP",
+			"name": "George Weasley",
+			"image_link": "https://www.personality-database.com/profile_images/719.png?=undefined"
+		},
+		{
+			"mbti": "ISFP",
+			"name": "Moaning Myrtle",
+			"image_link": "https://www.personality-database.com/profile_images/45174.png?=undefined"
+		},
+		{
+			"mbti": "ISFJ",
+			"name": "Ginny Weasley",
+			"image_link": "https://www.personality-database.com/profile_images/2683.png?=undefined"
+		},
+		{
+			"mbti": "ISFJ",
+			"name": "Neville Longbottom",
+			"image_link": "https://www.personality-database.com/profile_images/714.png?=undefined"
+		},
+		{
+			"mbti": "ISFJ",
+			"name": "Cho Chang",
+			"image_link": "https://www.personality-database.com/profile_images/54494.png?=undefined"
+		},
+		{
+			"mbti": "ISTP",
+			"name": "Viktor Krum",
+			"image_link": "https://www.personality-database.com/profile_images/22134.png?=undefined"
+		},
+		{
+			"mbti": "ISTJ",
+			"name": "Minerva McGonagall",
+			"image_link": "https://www.personality-database.com/profile_images/2936.png?=undefined"
+		},
+		{
+			"mbti": "INFP",
+			"name": "Luna Lovegood",
+			"image_link": "https://www.personality-database.com/profile_images/717.png?=undefined"
+		},
+		{
+			"mbti": "INFP",
+			"name": "Dobby",
+			"image_link": "https://www.personality-database.com/profile_images/715.png?=undefined"
+		},
+		{
+			"mbti": "INFJ",
+			"name": "Albus Dumbledore",
+			"image_link": "https://www.personality-database.com/profile_images/712.png?=undefined"
+		},
+		{
+			"mbti": "INTJ",
+			"name": "Severus Snape",
+			"image_link": "https://www.personality-database.com/profile_images/716.png?=undefined"
+		}
+	]
+}
