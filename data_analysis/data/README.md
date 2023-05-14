@@ -1,12 +1,12 @@
-analysis : mbti 별 top10 줄거리를 가져와 KoNLPy로 주요 키워드 분석, wordcloud 생성
+kmdb_movie : kmdb 영화 정보
 
-crawling : 네이버 영화 정보 크롤링 (장르, 줄거리, 상영시간)
+mbti : mbti 영화캐릭터, 이미지
 
-dataname : 기존 movie-mbti 데이터 가져오기
+mbti_movie : mbti, movie 최종 리스트
 
-mbti_movie : mbti 정보와 movie 정보 합하여 새로운 mbti-movie 데이터 만들기
+movie : 데이터 가지고 있는 영화 리스트
 
-movie_search : 네이버 영화 api 이용하여 영화 정보 가져오기
+naver_movie : naver movie 정보
 
-moviedata : 한국 영화 api로 영화 정보 가져오기
+naver_movie_story : 줄거리 포함 정보
 
