@@ -1,0 +1,3128 @@
+,movie
+0,   Marvel Cinematic Universe
+1,   Star Wars
+2,   Harry Potter (franchise)
+4,   The Lion King (1994)
+5,   Shrek (Franchise)
+6,   The Incredibles (Franchise)
+7,   Titanic (1997)
+8,   Aladdin (1992)
+9,   Back to the Future (franchise)
+11,   Fight Club (1999)
+13,   Pirates of the Caribbean
+18,   Coco (2017)
+19,   The Lord of the Rings
+22,   Finding Nemo (Franchise)
+23,   Toy Story (Franchise)
+24,   The Princess and the Frog (2009)
+25,   Winnie the Pooh (2011)
+26,   Forrest Gump (1994)
+28,   Once Upon a Time in Hollywood (2019)
+31,   The Hunger Games
+32,   Charlie and the Chocolate Factory (2005)
+33,   Cars (Franchise)
+34,   Up (2009)
+35,   The Godfather
+36,   To All the Boys I've Loved Before (2018)
+37,   Zootopia (2016)
+38,   Hotel Transylvania (2012)
+40,   Se7en (1995)
+41,   Heathers (1988)
+42,   Men in Black
+43,   How to Train Your Dragon (Franchise)
+45,   Beauty and the Beast (1991)
+46,   Ice Age (Franchise)
+47,   Kung Fu Panda (franchise)
+48,   High School Musical (Film Trilogy)
+49,   The Spider-Man Trilogy
+50,   DC Extended Universe
+52,   The Jungle Book (1967)
+54,   The Kissing Booth
+55,   Megamind (2010)
+57,   American Beauty (1999)
+58,   Coraline (2009)
+61,   Bohemian Rhapsody (2018)
+62,   Barbie as the Princess and the Pauper (2004)
+63,   Karate Kid (1984)
+64,"   Monsters, Inc. (2001)"
+65,   The Hobbit
+67,   1917 (2019)
+68,   The Great Gatsby (2013)
+71,   The Rocky Horror Picture Show (1975)
+72,   Kingsman
+73,   Baby Driver (2017)
+74,   Cinderella (1950)
+75,   Tinker Bell (2008)
+77,   Inglourious Basterds (2009)
+78,   The Nightmare Before Christmas (1993)
+79,   Moana (2016)
+80,   Portrait of a Lady on Fire (2019)
+81,   Clueless (1995)
+82,   The Little Mermaid (1989)
+85,   Lolita (1997)
+86,   Despicable Me
+89,   The Shawshank Redemption (1994)
+91,   Pride and Prejudice (2005)
+92,   Booksmart (2019)
+93,   A Clockwork Orange (1971)
+94,   101 Dalmatians (1996)
+95,   A Goofy Movie (1995)
+96,   The Fast and the Furious
+97,   The Wizard of Oz (1939)
+98,   Pulp Fiction (1994)
+100,   The Hangover Trilogy
+103,   The Croods (2013)
+104,   Recep İvedik
+105,   Descendants
+108,   Leap! / Ballerina (2016)
+109,   Happy Death Day
+111,   Edward Scissorhands (1990)
+112,"   I, Tonya (2017)"
+113,   Grease (1978)
+114,   Mad Max
+115,   Ratatouille (2007)
+116,   Scott Pilgrim vs. the World (2010)
+117,   Napoleon Dynamite (2004)
+118,   The Road to El Dorado (2000)
+119,   The Lion King (2019)
+120,   Megan Is Missing (2011)
+122,   Taxi Driver (1976)
+124,   Us (2019)
+125,   Mary Poppins (1964)
+126,   Fargo (1996)
+127,   Robin Hood (1973)
+128,   The Princess Diaries
+133,   Alice in Wonderland (1951)
+134,   The Angry Birds Movie (2016)
+135,   The Wolf of Wall Street (2013)
+136,   The Fifth Element (1997)
+137,   Requiem for a Dream (2000)
+139,   Hocus Pocus (1993)
+140,   Troy (2004)
+141,   Scarface (1983)
+143,   The Dictator (2012)
+144,   Bambi (1942)
+145,   Jurassic Park / Jurassic World
+146,   The Addams Family
+147,"   Love, Rosie (2014)"
+148,   Alien
+149,   21 Jump Street (2012)
+150,   Lady Bird (2017)
+152,   Rush Hour (1998)
+153,   Phantom Thread (2017)
+154,   Enchanted (2007)
+155,   Chucky
+157,   Austin Powers
+158,   Scream movies
+159,   Big Hero 6 (2014)
+163,   Taken
+164,   Mulan (1998)
+167,   Who Framed Roger Rabbit
+169,   Freaky Friday (2003)
+170,   Sense and Sensibility (1995)
+171,   Bram Stoker's Dracula (1992)
+172,   The Emperor's New Groove (2000)
+175,   Fantastic Beasts
+176,   X-Men Cinematic Universe (2000-2009)
+177,   John Wick
+178,   Surf’s Up (2007)
+179,   Uncut Gems (2019)
+180,   The Usual Suspects (1995)
+181,   The Big Lebowski (1998)
+182,   Barbie and the Magic of Pegasus (2005)
+185,   The Good Dinosaur (2015)
+186,   Charlie's Angels (2019)
+187,   Zombieland
+191,   Lady and the Tramp (1955)
+192,   A Nightmare on Elm Street (1984)
+193,   Hababam Sınıfı (1975)
+195,   The Green Mile (1999)
+196,   Barnyard (2006)
+197,   The Gentlemen (2019)
+198,   ParaNorman (2012)
+200,   The Mask (1994)
+204,   Bad Boys
+205,   Over the Moon (2020)
+207,   The Truman Show (1998)
+210,   The Irishman (2019)
+211,   Dr. Strange (1978)
+212,   Manchester by the Sea (2016)
+213,   Over The Hedge (2006)
+214,   Superbad (2007)
+215,   Billy Madison (1995)
+216,   The Cornetto Trilogy
+217,   The Devil's Advocate (1997)
+218,   The Platform / El Hoyo (2020)
+226,   The Fault in Our Stars (2014)
+227,   Song of the Sea (2014)
+228,   Jackie Brown (1997)
+229,   Cube (1997)
+230,   Rio (2011)
+231,   The DUFF (2015)
+232,   Bolt (2008)
+233,   The Conjuring
+236,   Pitch Perfect
+237,   Rush (2013)
+239,   The Ballad of Buster Scruggs (2018)
+246,   Good Will Hunting (1997)
+247,   Barbie: Three Musketeers
+248,   Carrie (1976)
+249,   Anastasia (1997)
+250,   Frozen (Franchise)
+252,   Paul Blart: Mall Cop (2009)
+254,   Mean Streets (1973)
+256,   Uptown girls (2003)
+257,   Corpse Bride (2005)
+258,   Maze Runner
+261,   Oliver & Company (1988)
+263,   Step Brothers (2008)
+269,   The Prestige (2006)
+270,   Ghost (1990)
+271,   Wreck-it Ralph (Franchise)
+272,   Only Lovers Left Alive (2013)
+273,   Empire Records (1995)
+274,   The Cabin in the Woods (2012)
+276,   Percy Jackson (film series 2010-2013)
+277,   Starship Troopers (1997)
+278,   Hunt for the Wilderpeople (2016)
+283,   The Emoji Movie (2017)
+284,   Wedding Crashers (2005)
+288,   Gone Girl (2014)
+291,   Wolfwalkers (2020)
+293,   Natural Born Killers (1994)
+300,   Legends of the Fall (1994)
+302,   The Lego Movies
+303,   Tropic Thunder (2008)
+304,   Crazy Rich Asians (2018)
+305,   Vicky Cristina Barcelona
+306,   The Florida Project (2017)
+308,   The Sisterhood of the Traveling Pants (2005)
+309,   Wayne's World (1992)
+310,   Jumanji (Reboot)
+312,   X-Men Cinematic Universe (2011-2020)
+314,   The Help (2011)
+319,   Mank (2020)
+321,   Sing (2016)
+324,   Annihilation (2018)
+326,   Boogie Nights (1997)
+332,   King Kong (2005)
+333,   10 Cloverfield Lane (2016)
+336,   One Flew Over the Cuckoo's Nest (1975)
+337,   The Sandlot (1993)
+338,   Bill & Ted
+340,   The Lorax (2012)
+342,   Monsters vs. Aliens
+343,   Snowpiercer (2013)
+346,   Marie Antoinette (2006)
+349,   Love Actually (2003)
+350,   Hot Wheels World Race / AcceleRacers
+351,   G.O.R.A. (2004)
+352,   Citizen Kane (1941)
+354,   Dazed and Confused (1993)
+356,   Dirty Harry
+357,   Tall Girl (2019)
+362,   Fifty Shades of Grey
+363,   The Aeronauts
+365,   The Black Cauldron (1985)
+372,   The Host (2006)
+374,   The King (2019)
+375,   The Cat in the Hat (2003)
+376,   Aladdin (2019)
+377,   American History X (1998)
+378,   The Secret Garden (1993)
+379,   Open Season (2006)
+380,   Halloween (1978)
+381,   Snatch. (2000)
+385,   I Am Mother (2019)
+386,   Barbie In The 12 Dancing Princesses (2006)
+387,   Ghostbusters (1984)
+388,   Holidate
+390,   Magnolia (1999)
+391,   The Purge
+392,   The Spy Who Dumped Me (2018)
+395,   Work It
+396,   Dallas Buyer's Club (2013)
+397,   How The Grinch Stole Christmas (2000)
+406,   This Is England (2006)
+409,   Hustlers (2019)
+411,   Home on the Range (2004)
+412,   Hacksaw Ridge (2016)
+413,   Ocean's Eleven Trilogy
+414,   The Lego Batman Movie (2017)
+416,   Pain and Glory (Dolor y gloria; 2019)
+417,   Big Fish (2003)
+418,   Lord of War (2005)
+419,   We're The Millers (2013)
+420,   The Poseidon Adventure (1972)
+422,   Meet the Parents (2000)
+425,   Twilight
+426,   The Spectacular Now (2013)
+427,"   Love, Simon (2018)"
+428,"   O Brother, Where Art Thou? (2000)"
+432,   BlacKkKlansman (2018)
+439,   Game Night (2018)
+442,   Unforgiven (1992)
+444,   Easy Rider
+446,   Barbie and the Diamond Castle (2008)
+458,   Twitches (2005)
+459,   Unpregnant (2020)
+460,   A Beautiful Mind (2001)
+461,   The Devil All the Time (2020)
+465,   A League of Their Own (1992)
+466,   Lawless (2012)
+467,   Road to Perdition (2002)
+468,   O Auto da Compadecida
+472,   help i'm a fish
+474,   Minha Mãe é Uma Peça (My Mom Is a Character)
+475,   Ghostbusters (2016)
+476,   Spring Breakers (2012)
+478,   Bad Times at the El Royale (2018)
+482,   Meet the Robinsons (2007)
+483,   Olsen Banden (Olsen Gang)
+484,   The 40-Year-Old Virgin (2005)
+488,   Thumbelina (1994)
+490,   Zoolander (2001)
+491,   A Christmas Prince (Trilogy)
+494,   The Secret of NIMH (1982)
+496,   Little Women (1994)
+500,   Showgirls (1995)
+502,   Some Like It Hot (1959)
+504,   Adaptation (2002 )
+506,   Horrible Bosses (2011)
+507,   The Quest For Camelot (1998)
+508,   The King's Speech (2010)
+511,   Kolpaçino
+512,   All About Eve (1950)
+515,   Batman (1989-1992)
+516,   The Invisible Man (2020)
+518,   Babe (1995)
+519,   Final Destination (2000)
+520,   The Goonies (1985)
+521,   Galaxy Quest (1999)
+522,   Heat (1995)
+523,   Coming to America (1988)
+524,   Midnight Cowboy (1969)
+527,   Homeward Bound (1993)
+530,   Z-O-M-B-I-E-S
+531,   Barry Lyndon (1975)
+532,   Pet Sematary (2019)
+539,   Boss Baby (2017)
+540,   Alice in Wonderland (2010)
+541,   Legally Blonde (2001)
+542,   Barbie as the Island Princess (2007)
+543,   Fish Tank (2009)
+545,   Sister Act (1992)
+546,   Into the Woods (2014)
+547,   Beauty and the Beast (2017)
+548,   Detachment
+549,   Saturday Night Fever (1977)
+550,   James Bond
+555,   House of 1000 Corpses (2003)
+556,   Short Cuts (1993)
+558,   Idiocracy (2006)
+559,   Never Back Down (2008)
+560,   Police Academy
+561,   Pineapple Express (2008)
+563,   Raising Arizona (1987)
+564,   Hoodwinked! (2005)
+565,   Chronicle (2012)
+566,   Boys Don't Cry (1999)
+567,   Marriage Story (2019)
+568,   Just Go with It (2011)
+569,   Secret Window (2004)
+570,   Scary Movie
+572,   Trolls World Tour
+574,   A Bronx Tale (1993)
+575,   Mulan (2020)
+576,   What's Eating Gilbert Grape (1993)
+578,   Dragonball Evolution (2009)
+579,   Tangled (2010)
+580,   Wonder (2017)
+581,   Platoon (1986)
+584,   Final Destination 3 (2006)
+586,   Robots (2005)
+587,   Hellraiser
+588,   Barbie Mariposa
+589,   Talladega Nights: The Ballad of Ricky Bobby (2006)
+590,   Secret Society Of Second Born Royals (2020)
+591,   Fallen Angels (Do Lok Tin Si) (1995)
+593,   Die Hard
+594,   Whiplash (2014)
+595,   The Adventures of Tintin (2011)
+596,   Jerry Maguire (1996)
+598,   Baahubali (Film Series)
+599,   Sexy Beast (2000)
+600,   The Painted Veil (2006)
+603,   Fast Times at Ridgemont High (1982)
+604,   The Holiday (2006)
+605,"   Crazy, Stupid, Love (2011)"
+606,   Guns Akimbo (2020)
+607,   DC Animated Movie Universe
+608,   Spaceballs (1987)
+609,   The Boys in The Band
+610,   Anna Karenina (2012)
+611,   The Seventh Seal (1957)
+612,   Isn't it Romantic? (2019)
+614,   Carlito's Way
+615,   Elite Squad (2007)
+616,   Blow Out (1981)
+617,   An Education (2009)
+618,   Love Exposure (2008)
+619,   Suicide Room. The Hater (2020)
+621,   12 Suicidal Teens (2019)
+622,   Doubt (2008)
+623,   Wild Things (1998)
+624,   The Dirt (2019)
+625,   St. Elmo's Fire (1985)
+627,   The Parent Trap (1998)
+628,   8 Mile (2002)
+629,   Ender's Game (2013)
+630,   Someone Great
+631,   Ted
+632,   Tuck Everlasting (2002)
+634,   The Matrix Trilogy (The Matrix)
+635,   High Plains Drifter (1973)
+636,   National Lampoon's Vacation (1983)
+637,   The Thing About Harry
+639,   Kuch Kuch Hota Hai
+641,   While You Were Sleeping (1995)
+642,   Mona Lisa Smile (2003)
+643,   The Clique
+644,   Red (2010)
+645,   Silver Linings Playbook (2012)
+646,   Assassination Nation (2018)
+647,   The Secret Life of Pets (2016)
+648,   Starstruck (2010)
+649,   One Day (2011)
+650,   Jingle All the Way (1996)
+651,   Conan the Barbarian (1982)
+652,   Brother Bear (2003)
+654,   Sideways (2004)
+655,   La Dolce Vita (1960)
+656,   Bonnie and Clyde
+657,   Cats (2019)
+660,   Who Am I- No System is Safe
+661,   Robin Hood: Prince of Thieves (1991)
+662,   Scream
+663,   Baby Mama (2008)
+664,   Bandits (2001)
+665,   Black Swan (2010)
+666,   John Tucker Must Die
+668,   Murder on the Orient Express (2017)
+669,   Once Upon a Time in America (1984)
+670,   Beverly Hills Cop (1984- 1994)
+673,   The Lost Boys (1987)
+674,   Mute (2018)
+675,   Epic (2013)
+676,   Godzilla
+678,   Clash of the Titans (1981)
+679,   The Darkest Minds (2018)
+681,   The Adventures of Milo and Otis (1986)
+682,   Blow (2001)
+685,   Gremlins (1984)
+688,   BASEketball (1998)
+689,   Night At The Museum (Franchise)
+691,   Sin City (2005)
+692,   Tropa de Elite
+693,   Now and Then (1995)
+694,   Barbie of Swan Lake (2003)
+695,   Red Shoes & The Seven Dwarfs (2019)
+697,   Y Tu Mamá También – Lust for Life
+698,   Major League (1989)
+699,   Vice
+700,   Night on Earth (1991)
+702,   Cinderella (2015)
+703,   Day of the Wacko (Dzień świra; 2002)
+706,   Tombstone (1993)
+707,   The Babysitter
+708,   Pelíšky (1999)
+709,   Eurotrip (2004)
+712,   Pinocchio (1940)
+713,   Welcome to Marwen
+714,   Dunkirk (2017)
+715,   Ip Man
+718,   Dil Bechara (2020)
+719,   Do The Right Thing
+720,   Inside Llewyn Davis (2013)
+721,   It Happened One Night (1934)
+722,   The Human Centipede
+723,   Juno (2007)
+724,   Sonic the Hedgehog (2020)
+725,   Sicario
+726,   Repo! The Genetic Opera (2008)
+727,   Cloud Atlas
+728,   Pierrot le Fou
+729,   The Hunchback of Notre Dame (1996)
+730,   Christopher Robin (2018)
+731,   Cruel Intentions (1999)
+732,   Sabrina (1954)
+733,   The Descendants
+734,   The High Note (2020)
+735,   Quo Vado? (2016)
+736,   Project Power (2020)
+737,   The Ten Commandments (1956)
+738,   A Bug's Life (1998)
+739,   Jacob's Ladder (1990)
+740,   Black Christmas (1974)
+741,   Signs (2002)
+742,   First Knight (1995)
+744,   Friday (1995)
+746,   As Good as It Gets (1997)
+748,   I Know What You Did Last Summer (1997)
+751,   Steel Magnolias (1989)
+752,   FernGully: The Last Rainforest (1992)
+753,   Kingdom of Heaven (2005)
+756,   Grease 2 (1982)
+757,   Lemonade Mouth (2011)
+758,   Secret Admirer (1985)
+759,   Armageddon (1998)
+761,   Dodgeball (2004)
+762,   Saw (2004)
+764,   Children of Men (2006)
+767,   Sky High (2005)
+768,   Four Lions (2010)
+771,   Lady Macbeth (2016)
+772,   Miss Stevens (2016)
+773,   Before I Fall (2017)
+774,   Dear Nathan
+775,   The Death Of Stalin (2017)
+776,   Okja (2017)
+777,   Flipped (2010)
+778,   Goat story
+779,   Happy Feet (2006-2011)
+781,   The Neon Demon (2016)
+783,   Truth Or Dare
+784,   Buffalo ‘66 (1998)
+785,   Jingle Jangle: A Christmas Journey (2020)
+786,   This Boy's Life (1993)
+787,   13 going on 30 (2004)
+788,   Arthur Christmas
+790,   Singin' in the Rain (1952)
+791,   Friday the 13th (1980)
+792,   Footloose (1984)
+793,   Tetsuo: The Iron Man (1989)
+794,   Then Came You (2018)
+795,   Death Proof (2007)
+796,   Blazing Saddles
+798,   Pretty Baby (1978)
+800,   Panic Room ( 2002 )
+801,   View Askewniverse
+805,   The Assassination of Jesse James by the Coward Robert Ford (2007)
+808,   Van Wilder (2002)
+810,   Flower (2017)
+811,   Cold Mountain ( 2003)
+812,   Mewtwo Strikes Back: Evolution (2019)
+813,   25 watts
+814,   Florence Foster Jenkins (2016)
+815,   The Other Woman (2014)
+816,   Nanny McPhee (2005)
+817,   High-Rise
+818,   The Thing (2011)
+819,   Super (2010)
+820,   A Simple Favor (2018)
+822,   The Seven Year Itch (1955)
+823,   The Pacifier (2005)
+824,   Vabank (Juliusz Machulski)
+825,   Undisputed
+826,   Mary Shelley (2017)
+827,   The Barbie Diaries
+828,   Intouchables (2011)
+829,   American Pie
+833,   The Blues Brothers (1980)
+836,   Takers
+838,   Mallrats (1995)
+839,   Planet Terror (2007)
+841,   Muhsin Bey
+842,   Teen Beach Movie
+843,   Pain and Gain (2013)
+844,   Transformers (Bayverse)
+845,   Cinderella Man (2005)
+858,   Final Destination 2 (2003)
+862,   Pretty in Pink (1986)
+864,   RoboCop
+865,   Clerks (1994)
+869,   Bad News Bears (2005)
+873,   Bad Teacher
+875,   Planet of the Apes (1968)
+877,   Heart (2006)
+879,   True Romance (1993)
+880,   Be With You
+881,   Cloverfield (2008)
+882,   Pan (2015)
+883,   The Intern (2015)
+885,   Alexander (2004)
+887,   What's Up with Love? (2002)
+889,   She’s All That
+891,   The Red Balloon (1956)
+892,   Us and Them (2018)
+893,   Arthur and the Invisibles
+894,   The Stepford Wives (1975)
+895,   Adventureland (2009)
+898,   Miller's Crossing (1990)
+899,   The Forest of Love (2019)
+900,   Gremlins 2: The New Batch
+904,   Half Baked (1998)
+906,   Un Chien Andalou (1929)
+909,   Shoplifters
+910,   Dear Zindagi
+913,   Young Frankenstein
+914,   Show Me Love / Fucking Åmål (1998)
+917,   Clash of the Teetans
+919,   Frankenstein
+923,   Gone with the Wind (1939)
+924,   The Willoughbys (2020)
+926,   Frenzy (1972)
+929,   Barbie in A Mermaid Tale
+930,   Yedi Bela Hüsnü (1982)
+931,   Of Mice and Men (1992)
+933,   Pretty Woman (1990)
+935,   The Boondock Saints (1999)
+937,   Jawbreaker (1999)
+938,   Romy and Michele's High School Reunion (1997)
+939,   Sabrina (1995)
+940,   25th Hour
+941,   My Fair Lady
+942,   Flight of the Phoenix (2004)
+943,   Halloween (Rob Zombie remake/reboot timeline)
+945,   Thirteen (2003)
+946,   Van Helsing (2004)
+947,   Match Point (2005)
+948,   Public Enemies (2009)
+950,   Next Gen (2018)
+952,   Jane Eyre (2011)
+953,   The Muppets (2011 film)
+954,   A Royal Affair (2012)
+955,   The First Time (2012)
+956,   Radio Rebel (2012)
+957,   Fack ju Göthe
+959,   Chef (2014)
+960,   The Big Short (2015)
+963,   Raggedy Ann & Andy: A Musical Adventure (1977)
+965,   River's Edge (2018)
+966,   Love Wedding Repeat (2020)
+967,   All Dogs Go to Heaven (1989)
+969,   The Ant Bully
+970,   The Rescuers (1977)
+971,   Dorbees: Making Decisions
+972,   Monsters University (2013)
+973,   Zathura
+974,   White Chicks (2004)
+978,   The Perfect Man (2005)
+979,   The Last Unicorn (1982)
+981,   All About Lily Chou-Chou (2001)
+982,   Valley Of The Dolls (1967)
+983,   Diary of a Wimpy Kid: The Long Haul
+984,   What If (2013)
+989,   Scrooged (1988)
+990,   Raise the Red Lantern (1991)
+992,   Detroit Rock City (1999)
+993,   G.I. Joe (film series)
+994,   Home Alone (1990)
+995,   K-12 (2019)
+996,   Happy Days (Neşeli Günler; 1978)
+997,   Arashi no Yoru ni
+999,   By the Sea (2015)
+1000,   Last Chance Harvey (2008)
+1001,   Mirror Mirror (2012)
+1002,   The Priests (2015)
+1004,   Yojimbo (1961)
+1005,   Kabhi Khushi Kabhie Gham... (2001)
+1008,   Sunrise: A Song of Two Humans
+1009,"   Dhoom (Film Trilogy, 2004-2013)"
+1013,   Parenti serpenti (1992)
+1014,   Atlantics (2019)
+1015,   Feel the Beat (2020)
+1016,   My Cousin Vinny (1992)
+1018,   You Can't Take it With You (1938)
+1019,   Moms' Night Out (2014)
+1020,   Charlie Bartlett
+1021,   Planes (2013)
+1023,   Shinbone Alley
+1024,   A Girl Walks Home Alone at Night (2014)
+1025,   Bull Durham (1988)
+1026,   Adventures in Babysitting
+1027,   Rams (2015)
+1028,   The Book of Henry (2017)
+1029,"   Me, Myself & Irene (2000)"
+1032,   Tremors
+1033,   Accattone (1961)
+1034,   The Dark Crystal (1982)
+1036,   The Light Between Oceans (2016)
+1037,   Bloodsport (1988)
+1038,   Jeepers Creepers
+1041,   Sing Street (2016)
+1042,   Eye Candy
+1043,   An Officer and a Gentleman (1982)
+1044,   Miss Peregrine's Home for Peculiar Children (2016)
+1047,   Central Intelligence
+1048,   Animalympics
+1049,   Click
+1050,   Gigi (1958)
+1051,   A Long Way Down (2014)
+1052,   Bill & Ted Face the Music (2020)
+1053,   Kill The Messenger
+1054,   The Beguiled (2017)
+1056,"   Maries Lied: Ich war, ich weiß nicht wo"
+1057,   In America (2002)
+1058,   The Secret Life of Walter Mitty (2013)
+1059,   Alpha Dog (2006)
+1061,   The Grey (2011)
+1062,   2012 (2009 disaster film)
+1063,   The Great Mouse Detective (1986)
+1064,   Legend of the Guardians: The Owls of Ga'Hoole
+1065,   Tango & Cash ( 1989)
+1066,   SubUrbia (1996)
+1067,   The Chorus (2004)
+1068,   Cloudy with a Chance of Meatballs (2009)
+1069,   Captain Fantastic (2016)
+1070,   Wonder Wheel (2017)
+1072,   Mrs. Doubtfire (1993)
+1073,   Space Jam (1996)
+1074,   Boyz N the Hood (1991)
+1075,   Carandiru (2003)
+1076,   Caddyshack ( 1980)
+1077,   House of Wax (2005)
+1078,   Midnight Sun
+1079,   Pride and Prejudice and Zombies (2016)
+1080,   Scoob! (2020)
+1081,   Black Christmas (2006)
+1083,   300
+1084,   Blades of Glory (2007)
+1085,   Soul Surfer (2011)
+1086,   Tremors 4: The Legend Begins
+1089,   The Way We Are (Biz Böyleyiz; 2020)
+1090,   Sixteen Candles (1984)
+1093,   Rock of Ages (2012)
+1094,   The Dark Knight Trilogy
+1095,   The Lives Of Others (2006)
+1096,   Una pelicula de huevos
+1097,   Footloose (2011)
+1098,   The Red Turtle
+1099,   Bleach (2018)
+1100,   At Eternity's Gate (2018)
+1101,   Bicentennial Man (1999)
+1102,   Madea
+1103,"   Wild Strawberries (Smultronstället, 1956)"
+1104,   The Manchurian Candidate (1962)
+1106,   Stuber (2019)
+1108,   My Beautiful Laudrette
+1109,   Yesterday (2019)
+1110,   L'Eclisse (1962)
+1111,   Ondskan / Evil (2003)
+1112,   The Battleship Island
+1113,   Wargames
+1116,   Koizora (2007)
+1117,   Hubie Halloween (2020)
+1119,   Killer Joe (2011)
+1120,   Bill and Ted (Franchise)
+1121,   Willow (1988)
+1122,   The Art Of Getting By
+1123,   The Perfect Score (2004)
+1125,   Twister
+1126,   Breaking Away (1979)
+1127,   I vitelloni (1953)
+1128,   Zabuti (2019)
+1129,   Never Cry Wolf
+1131,   Midnight Runners (2017)
+1132,   Kibar Feyzo (1978)
+1133,   Masal Şatosu
+1134,   Robin Hood: Men in Tights
+1135,   Matchstick Men (2003)
+1136,   Millennium Mambo
+1137,   Amarcord (1973)
+1138,   Can't Hardly Wait (1998)
+1139,   Crank
+1141,   Realityhigh
+1142,   Time to Hunt (2020)
+1143,   Hot Gimmick: Girl Meets Boy (2019)
+1144,   LOL (Laughing Out Loud)
+1145,   Kung Pow: Enter the Fist (2002)
+1146,   Sex Drive (2008)
+1147,   3 Women (1977)
+1150,   The Man Who Copied (2003)
+1152,"   Faster, Pussycat! Kill! Kill! (1965)"
+1153,   The World Of Apu (1959)
+1154,   A Trip To The Moon (1902)
+1155,   Bloodshot (2020)
+1156,   Ella Enchanted (2004)
+1157,   Rope (1948)
+1162,   Chocolat
+1163,   Hera Pheri (2000)
+1164,   Madre (2019)
+1165,   Fantozzi (1975)
+1166,   The Boxtrolls (2014)
+1167,   Dancer in the Dark (2000)
+1169,   Gnomeo and Juliet
+1170,   Major Payne
+1171,   Mama
+1172,   Queen (2013)
+1173,   La Ceremonie
+1175,   The Bad News Bears (1976)
+1176,   Halloween (2018)
+1177,   Austenland
+1179,   Whisper If I Forget (Unutursam Fısılda; 2014)
+1180,   Mission: Impossible
+1181,   Song to Song (2017)
+1182,   Korkusuz Korkak (1979)
+1183,   Twenty
+1184,   3 Generations (2015)
+1185,   Lorna Doone (2000)
+1186,   Encino Man (1992)
+1187,   Safe Haven
+1188,   Phone Booth (2002)
+1189,   Məhəllə
+1190,   Ichi the Killer (2001)
+1191,   Klass (Zkažená mládež) (2007)
+1192,   Camp Rock (2008)
+1193,   Raw/Grave (2016)
+1194,   Freier Fall - Free Fall
+1195,   Host (2020)
+1196,   American Flyers (1985)
+1197,   Teen Wolf (1985)
+1199,   My Big Fat Greek Wedding (franchise)
+1201,   Final Destination 5 (2011)
+1202,   Money Monster (2016)
+1203,   Spree
+1205,   Roxbury (1998)
+1207,   Wrong Turn 2
+1209,   Unfriended (2014)
+1211,   Crocodile Dundee
+1213,   Chappie (2015)
+1215,"   Honey, I..."
+1217,   The Naked Gun
+1219,   Rocky
+1221,   Transporter
+1222,   Lady Driver (2020)
+1224,   Young Guns
+1225,   The Phantom Carriage (1921)
+1227,   Trolls (film)
+1228,   Beauty and the Beast (1946)
+1229,   Midnight Express (1978)
+1230,   Scarlet Street (1945)
+1231,   A Place In The Sun
+1232,   Circle (2015)
+1235,   The Leopard (1963)
+1237,   Pink Flamingos (1972)
+1238,   Tři Oříšky Pro Popelku (1973)
+1239,   The Apple Dumpling Gang (1975)
+1240,   Five Deadly Venoms (1978)
+1242,   Suspiria (1977)
+1245,   Cracks
+1246,   The Pirates of Penzance (1983)
+1247,   Attack the Block (2011)
+1248,   Botoks
+1249,   New York Stories (1989)
+1250,   Return to Oz (1985)
+1251,   The Crow (1994)
+1256,   Les nuites fauves (Savage Nights) (1992)
+1257,   Blue Streak (1999)
+1258,   Casper (1995)
+1259,   The Faculty
+1260,   Following (1998)
+1261,   Sleepers (1996)
+1262,   The Stupids (1996)
+1263,   Superstar (1999)
+1264,   Thumbelina: A Magical Story (1993)
+1265,   The Brown Bunny (2004)
+1266,   Cabin Fever
+1268,   Confessions of a Dangerous Mind (2002)
+1269,   Crash (2004)
+1270,   Girl with a Pearl Earring (2003)
+1271,"   I, Robot (2004)"
+1272,   King Arthur (2004)
+1274,   The Rules of Attraction (2002)
+1275,   The Wedding Date (2004)
+1277,   3:10 to Yuma (2007)
+1279,   Blood and Chocolate
+1280,   Burn After Reading (2008)
+1281,   Danika
+1284,   Heavenly Forest (2006)
+1285,   Hoot (2006)
+1287,   One Night with the King (2006)
+1288,   RV / Runaway Vacation (2006)
+1290,   Wolf Creek (2005)
+1292,   Wild at Heart
+1293,   Violet & Daisy (2011)
+1294,   We Bought A Zoo
+1295,   Byzantium
+1298,   House
+1300,   Fantasia 2000 (1999)
+1301,   Allied (2016)
+1302,   Fallen
+1303,   Hidden Figures (2016)
+1304,   68 Kill (2017)
+1306,   Bad Education (2019)
+1307,   High Life (2019)
+1308,   Misfit (2019)
+1309,   Triple Frontier (2019)
+1310,   Bad Trip (2020)
+1311,   Cats Don't Dance (1997)
+1312,   Hot Pursuit (2015)
+1314,   Rock And Rule
+1315,   Terrifier
+1316,   Foodfight!
+1319,   Strange Magic (2015)
+1320,   Munna Bhai MBBS
+1322,"   The Way, Way Back (2013)"
+1324,   Last Holiday
+1326,   Les Visiteurs
+1328,   The Island (2005)
+1329,   There Will Be Blood (2007)
+1330,   The Family Stone
+1331,   Ittefaq
+1332,   Eden Lake
+1333,   The Addams Family 2019
+1334,   Alpha And Omega
+1335,   Under the tuscan sun
+1336,   Super 8 (2011)
+1338,   Stuart Little
+1340,   Across the Universe (2007)
+1341,   Sunny (2011-South Korean Movie)
+1342,   Boyhood (2014)
+1344,   Dinner for Schmucks (2010)
+1345,   Halloweentown
+1347,   12 Hour Shift (2020)
+1349,   How to Be Single (2016)
+1350,   Expendables
+1351,   Brother (1997)
+1352,"   Good Bye, Lenin! (2003)"
+1353,   Along Came Polly (2004)
+1354,   Only You (1994)
+1356,   Today is Spaceship Day
+1358,   Seven Days: Monday - Thursday
+1359,   1776 (1972)
+1362,   Fantasy Island
+1363,   Kogel-mogel
+1364,   American Graffiti (1973)
+1367,   Scooby-Doo
+1368,   The Inheritance (1997)
+1369,"   Roma, Open City (1945)"
+1371,   Abraham Lincoln: Vampire Hunter
+1372,   The Perks of Being a Wallflower (2012)
+1374,   Ballet Shoes
+1376,   A Midsummer Night's Dream (1999)
+1377,   Marrowbone
+1378,   The Lion in Winter (1968)
+1379,   The Patriot (2000)
+1381,   The Personal History of David Copperfield
+1382,   Cheaper by the Dozen (Franchise)
+1383,   The Princess Switch (2018)
+1384,   Interstella 5555: The 5tory of the 5ecret 5tar 5ystem (2003)
+1385,   Accepted (2006)
+1386,   The House Bunny
+1387,   The Outsiders (1983)
+1388,   Artemis Fowl (2020)
+1389,   Malibu’s Most Wanted (2003)
+1391,   Hollywood (miniserie)
+1392,   Vikram Vedha
+1393,   The Adventures of Buratino (Priklyucheniya Buratino; 1976)
+1394,   Brokeback Mountain (2005)
+1395,   Monty Python's Life of Brian (1979)
+1396,   Romeo and Juliet: Sealed with a Kiss
+1397,   Love The Coopers
+1398,   Hana and Alice (2004)
+1399,   Death Note: Light Up the NEW World
+1400,   Stardust (2007 film)
+1402,   A Face in the Crowd (1957)
+1403,   Gangs of New York (2002)
+1407,   The Gold Rush (1925)
+1408,   The King of Staten Island (2020)
+1409,   Wanted (2008)
+1410,   On the Rocks (2020)
+1411,   Valley Girl (1983)
+1412,   Aliens in the Attic
+1414,   Bacurau (2019)
+1415,   Closet monster
+1418,   Four Weddings and a Funeral (1994)
+1419,   Re-Animated (2006)
+1421,   Wilde (1997)
+1422,   Another Cinderella Story (2008)
+1423,   A Vida Invisível
+1424,   Pet (2016)
+1425,   Jack and the Cuckoo-clock Heart
+1427,   Fear (1996)
+1428,   The Hours (2002)
+1429,   The Bromley Boys (2018)
+1430,   The Philadelphia Story
+1431,   Happy Together
+1433,   Hoje Eu Quero Voltar Sozinho (The Way He Looks)
+1434,   Little Women (2019)
+1435,   Ma Rainey's Black Bottom (2020)
+1436,   It's Kind of a Funny Story (2010)
+1437,   The Hole (2001)
+1438,"   The Umbrellas of Cherbourg (Les Parapluies de Cherbourg, 1964)"
+1439,   17 Again (2009)
+1440,   Carnal Knowledge (1971)
+1441,   27 Dresses (2008)
+1442,   Liz and the Blue Bird (Liz to Aoi Tori)
+1443,"   Merry Christmas, Mr. Lawrence"
+1446,   Blended (2014)
+1447,   D.E.B.S. (2004)
+1448,   The Leaves (ฺBai Mai Tee Plid Plew)
+1449,   Animal House
+1450,   Mahabharat
+1452,   Knocked Up (2007)
+1453,   Ocean's 8 (2018)
+1454,"   I Love You, Man (2009)"
+1455,   Monster (2003)
+1456,   The Final Girls
+1457,   Disney sleepy hollow.
+1458,   The world of Kanako (Kawaki)
+1459,   Ken Park (2002)
+1461,   Josie and the Pussycats (2001)
+1462,   Barbie and the 12 Dancing Princesses (2006)
+1463,   This Is the End (2013)
+1465,   Small Time
+1466,   Being Charlie
+1467,   The Wedding Singer (1998)
+1468,   Rescue Dawn (2006)
+1469,   She's Out of My League
+1470,   Surviving Christmas
+1471,   Baby's Day Out
+1472,   Bully (2001)
+1476,   The Martian (2015)
+1477,   I killed my mother
+1478,   Runaway Bride (1999)
+1479,   İstanbul Kanatlarımın Altında (1996)
+1480,   Bratz: The Movie (2007)
+1481,   Dreamgirls (2006)
+1482,   The Five Year Engagement
+1483,   Stargate (1994)
+1484,   The Bling Ring (2013)
+1485,   Snowden (2016)
+1486,   Ferdinand (Olé el Viaje de Ferdinand)
+1487,   Cinderela Pop
+1488,   O Cavaleiro Didi e a Princesa Lili (2006)
+1489,   From Prada to Nada (2011)
+1491,   Barbie: Star Light Adventure
+1493,   Frankenweenie (2012)
+1494,   Clouds (2020)
+1495,   Sleeping with the Enemy
+1496,   The Pink Panther (film series)
+1497,   Suite Française (2015)
+1499,   Charming (2018)
+1500,   Carrie (2013)
+1501,   The Aftermath (2019)
+1503,   Becoming Jane (2007)
+1504,   Liar Liar (1997)
+1506,   The Secret Life of Bees (2008)
+1511,   The Informer
+1513,   That Thing You Do! (1996)
+1517,   Snow White and the Seven Dwarfs (1937)
+1519,   Mean Girls (2004)
+1522,   The Breakfast Club (1985)
+1523,   Hercules (1997)
+1524,   Parasite (2019)
+1526,   Madagascar (Franchise)
+1529,   Lilo & Stitch (2002)
+1534,   It
+1539,   Peter Pan (1953)
+1546,   Inside Out (2015)
+1557,   Knives Out (2019)
+1564,   Divergent
+1570,   Alvin And The Chipmunks (2007)
+1574,   10 Things I Hate About You (1999)
+1578,   The Notebook (2004)
+1592,   Rise of the Guardians (2012)
+1597,   Indiana Jones
+1600,   Onward (2020)
+1601,   Star Trek (Kelvin Timeline)
+1608,   Bee Movie (2007)
+1612,   12 Angry Men (1957)
+1615,   American Psycho (2000)
+1620,   What We Do in the Shadows (2014)
+1621,   When Harry Met Sally... (1989)
+1623,   Goodfellas (1990)
+1625,   Sweeney Todd: The Demon Barber of Fleet Street (2007)
+1626,   Diary of a Wimpy Kid
+1630,   To Kill a Mockingbird (1962)
+1633,   Lethal Weapon (Movie Series)
+1635,   The Hateful Eight (2015)
+1639,   The Chronicles of Narnia (Film Trilogy)
+1641,   Pocahontas (1995)
+1644,   The Room (2003)
+1645,   Emma. (2020)
+1649,   Stand by Me (1986)
+1651,   Catch Me If You Can (2002)
+1652,   Mulholland Drive (2001)
+1657,   The Aristocats (1970)
+1666,   Ever After: A Cinderella Story
+1667,   Groundhog Day (1993)
+1671,   Dead Poets Society (1989)
+1674,   Jojo Rabbit (2019)
+1675,   Green Book (2018)
+1677,   Peter Pan (2003)
+1680,   500 Days of Summer (2009)
+1683,   Watchmen (2009)
+1685,   The Silence of the Lambs (1991)
+1687,   Amadeus (1984)
+1689,   Passengers (2016)
+1690,   Little Miss Sunshine (2006)
+1692,   I'm Thinking of Ending Things (2020)
+1696,   Beetlejuice (1988)
+1697,   Bird Box (2018)
+1699,   Split (2016)
+1700,   Clue (1985)
+1703,   The Ring (2002)
+1704,   Mamma Mia! (2008)
+1705,   Happiest Season (2020)
+1706,   Barbie: Princess Charm School
+1711,"   Girl, Interrupted (1999)"
+1718,   Independence Day (1996)
+1724,   Persona (1966)
+1732,   The Departed (2006)
+1733,   Rear Window (1954)
+1734,   A Cinderella Story (2004)
+1738,   The Exorcist (1973)
+1741,   Saving Private Ryan (1998)
+1747,   28 Days Later (2002)
+1750,   The Imitation Game (2014)
+1758,   The Swan Princess (1994)
+1759,   Judy (2019)
+1761,   Spider-Man: Into the Spider-Verse (2018)
+1763,   Barbie As Rapunzel (2002)
+1766,   Sherlock Holmes
+1768,   Bridesmaids (2011)
+1771,   Bring It On (franchise)
+1772,   Abominable (2019)
+1773,   District 9 (2009)
+1776,   The Land Before Time (1988)
+1789,   The Texas Chainsaw Massacre (Franchise)
+1792,   Ingrid Goes West ( 2017)
+1793,   Top Gun (1986)
+1802,   Bruce Almighty (2003)
+1809,   Leap Year (2010)
+1811,   Easy A (2010)
+1822,   The Prom (2020)
+1823,   Pink Floyd: The Wall
+1829,   Paddington (2014)
+1833,   Hillbilly Elegy (2020)
+1836,   The Mule (2018)
+1843,   Prozac Nation (2001)
+1852,   Rosemary’s Baby (1968)
+1858,   Source Code (2011)
+1859,   Always Be My Maybe
+1860,   Bumblebee (2018)
+1861,   War for the Planet of the Apes (2017)
+1868,   Casablanca (1942)
+1870,   Fury (2014)
+1873,   Nosferatu: A Symphony of Horror (1922)
+1874,   Rocketman (2019)
+1882,   Moonstruck (1987)
+1886,   Maleficent (2014)
+1888,   Nappily Ever After (2018)
+1890,   Halloween 2018 Timeline
+1894,   The Fly (1986)
+1895,   Norbit (2007)
+1897,   Ed Wood (1994)
+1898,   Orphan (2009)
+1903,   Lolita (1962)
+1905,   Amélie (2001)
+1911,   Hook (1991)
+1912,   Contagion (2011)
+1913,   The Bridge on the River Kwai (1957)
+1914,   The Apartment (1960)
+1916,   Monster House (2006)
+1919,   Bad Neighbors (2014)
+1920,   Due Date (2010)
+1922,   P.S. I Love You (2007)
+1924,   The Blind Side
+1929,   Irrational Man (2015)
+1938,"   Love, Guaranteed"
+1939,   Cool Cat Saves the Kids (2015)
+1940,   Nezha (2019)
+1941,   The Birdcage (1996)
+1949,   We Need to Talk About Kevin (2011)
+1951,   Almost Famous (2000)
+1952,   Midsommar (2019)
+1955,   A Little Princess (1995)
+1958,   Donnie Darko (2001)
+1960,   Punch-Drunk Love (2002)
+1964,   127 Hours (2010)
+1967,   Lost And Delirious
+1968,   Ferris Bueller's Day Off (1986)
+1969,   Forgetting Sarah Marshall
+1971,   The Christmas Chronicles (Franchise)
+1973,   The Village (2004)
+1976,   Sleepy Hollow (1999)
+1980,   Unbreakable (2000)
+1981,   The Karate Kid (2010)
+1985,   Labyrinth (1986)
+1990,   Moulin Rouge (2001)
+1991,   Horse Girl (2020)
+1996,   Manhattan (1979)
+1997,   Birdman or (The Unexpected Virtue of Ignorance) (2014)
+1999,   Martyrs (2008)
+2000,   PK (2014)
+2002,   Network (1976)
+2008,   Father of the Bride (1991)
+2012,   Paranormal Activity
+2013,   Sausage Party
+2015,   Wild at Heart (1990)
+2018,   The Nutty Professor (1996)
+2020,   The Vow (2012)
+2021,   Paper Towns (2015)
+2022,"   Where’d You Go, Bernadette (2019)"
+2024,   Bedazzled (2000)
+2030,   Upgrade (2018)
+2032,   The Elephant Man (1980)
+2036,   Malavita: The Family
+2039,   Pay It Forward ( 2000 )
+2042,"   The Great Beauty (La grande bellezza, 2013)"
+2045,   The Farewell (2019)
+2048,   Reality Bites (1994)
+2049,   The Social Network (2010)
+2054,   Mermaids (1990)
+2055,   The Thing (1982)
+2056,   Bird (1988)
+2058,   Trainspotting
+2061,   Spanglish
+2062,   Ramo (2020)
+2065,   The Miseducation of Cameron Post (2018)
+2069,   Dumplin’ (2018)
+2070,   The Grinch (2018)
+2071,   The Proposal (2009)
+2073,   The Darjeeling Limited (2007)
+2075,   Uncle Frank
+2078,   Confessions of a Shopaholic
+2081,   The Last Laugh (1924)
+2085,   Little Women (1933)
+2089,   UglyDolls
+2093,   Dirty Dancing (1987)
+2097,"   Crouching Tiger, Hidden Dragon (2000)"
+2098,   The Piano Teacher (2001)
+2102,   Speak (2004)
+2107,   Would You Rather (2012)
+2108,   The Girl with the Dragon Tattoo (2011)
+2113,   The Day After Tomorrow (2004)
+2114,   The Last Airbender (2010)
+2116,   Baywatch (2017)
+2119,   Beach rats (2018)
+2122,   High Fidelity (2000)
+2132,   The Wizard of Oz
+2136,   Top Secret! (1984)
+2137,   The Night of the Hunter (1955)
+2140,   No Country for Old Men (2007)
+2151,   Dog Day Afternoon (1975)
+2153,   Resident Evil
+2154,   Bibi Und Tina (2014)
+2155,   The Secret of Moonacre (2008)
+2157,   Maid in Manhattan
+2158,   Autumn Sonata (1978)
+2159,   How Do You Know
+2165,   A.I. Artificial Intelligence (2002)
+2166,   Loving Vincent (2017)
+2172,   Insidious
+2174,   Foreign Correspondent (1940)
+2175,   Laura (1944)
+2177,   Chitty Chitty Bang Bang (1968)
+2178,   Downsizing (2017)
+2183,   Dennis the Menace (1993)
+2189,   Dawn of the Dead (2004)
+2190,   Ginger Snaps (2000-2004)
+2191,   I Am Sam (2001)
+2192,   I Heart Huckabees (2004)
+2193,   Me and Earl and the Dying Girl (2015)
+2194,   3 Idiots (2009)
+2196,   Sydney White and the seven dorks (2007)
+2198,   Yes Man (2008)
+2199,   Incendies (2010)
+2200,   The Green Inferno (2013)
+2202,   The Lobster (2015)
+2204,"   Yes, God, Yes (2020)"
+2205,   The Book of Life (2014)
+2211,   Letters to Juliet
+2213,   Oz the Great and Powerful (2013)
+2215,   Lucas (1986)
+2216,   Italian Spiderman
+2217,   A Song to Remember
+2220,   Ammonite
+2225,   When We First Met (2018)
+2229,   Lost in Space ( 1998)
+2234,   The Specials (2019)
+2235,   This Means War (2012)
+2239,   Chloe (2009)
+2240,   The Curious Case of Benjamin Button (2008)
+2241,   Scary Godmother: Halloween Spooktakular
+2242,   Good Boys (2019)
+2247,   Shame (2011)
+2249,   The Hills Have Eyes (2006)
+2250,   Padak
+2251,   A Few Good Men (1992)
+2254,"   Extremely Wicked, Shockingly Evil and Vile (2019)"
+2255,   A Serbian Film (2010)
+2259,   Ternet Ninja
+2266,   Samantha: An American Girl Holiday (2004)
+2267,   UHF
+2270,"   Four Days in September (1997) O Que É Isso, Companheiro?"
+2271,   The Other Boleyn Girl
+2272,   Nancy Drew and the Hidden Staircase (2019)
+2273,   The Four Feathers (2002)
+2274,   Love Comes Softly (2003)
+2276,   Another Year (2010)
+2277,   Excalibur (1981)
+2280,   Driving Miss Daisy (1989)
+2282,   A Room with a View (1985)
+2283,   A Colt Is My Passport (1967)
+2284,   Bone Tomahawk (2015)
+2286,   Whale Rider (2002)
+2288,   Middle School: The Worst Years of My Life
+2294,   Betty Blue (37°2 le Matin) (1986)
+2296,   I.T. (2016)
+2298,   Dai Si Hing (2018)
+2300,   The Blue Shell Incident (2019)
+2302,   Hollow Man (2000)
+2303,   Identity (2003)
+2304,   Paradise Hills (2019)
+2305,   Picnic at Hanging Rock (1975)
+2307,   Noah (2014)
+2310,   Around the World in 80 Days (2004)
+2313,   Christine (2016)
+2315,   A Cinderella Story: Christmas Wish (2019)
+2316,   Brexit: The Uncivil War (2019)
+2318,   Inspector Gadget
+2319,   CJ7
+2320,   Bridget Jones's Diary (franchise)
+2321,   PLAYMOBIL: THE MOVIE (2019)
+2324,   Bravetown
+2327,   Pi: Faith in chaos
+2329,   La La Land (2016)
+2330,   A Fall from Grace (2020)
+2332,   Masoom
+2333,   Mine Vaganti
+2335,   War Horse (2011)
+2336,   A Moment To Remember
+2337,   Ahlat Ağacı
+2338,   Elysium
+2339,   Neighboring Sounds (2012) O Som ao Redor
+2347,   The Nutcracker And The Four Realms
+2348,   A Beautiful Day in the Neighbourhood (2019)
+2350,   Eiffel I'm in Love (2003)
+2352,   The Adventures of Tom Sawyer (1938 )
+2353,   Pearl Harbor
+2354,   Anthropoid (2016)
+2355,   Fences (2016)
+2358,   Dil Chahta Hai
+2363,   Isi and Ossi
+2370,   Carnage (2011)
+2371,   The Last Detail (1973)
+2374,   Reign Over Me
+2375,   What To Expect When You're Expecting
+2381,   Willy Wonka and the Chocolate Factory (1971)
+2382,   The Hunt for Red October (1990)
+2383,   Uncle Buck (1989)
+2384,   Who Killed Captain Alex? (2010)
+2385,   Nancy Drew (2007)
+2388,   Awake (2007)
+2389,   Dolphin Tale (2011)
+2390,   Loving Annabelle
+2394,   Le Dîner de cons (1998)
+2398,   Killers 2010
+2400,   Some Kind of Wonderful (1987)
+2401,   Bad Girls From Valley High (2005)
+2402,   Read it and Weep (2006)
+2403,   Beethoven
+2405,   The Dollars Trilogy
+2409,   Lars and the Real Girl
+2413,   Night of the Living Dead (1968)
+2415,   Harold and Maude (1971)
+2416,   Stick It
+2419,   Escape from Alcatraz (1979)
+2422,   Pete's Dragon (1977)
+2425,   Ms .45 (1981)
+2426,   Pierino Series
+2430,   Better Off Dead (1985)
+2435,   Stand and Deliver (1988)
+2437,   Twins (1988)
+2438,   The Witches of Eastwick (1987)
+2439,   The Wizard (1989)
+2440,   The Bodyguard (1992)
+2441,   Darr
+2443,   Ri¢hie Ri¢h (1994)
+2446,   Emma (1996)
+2449,   Chalte Chalte (2003)
+2455,   The Legend Of Bagger Vance
+2456,   Sweet Home Alabama (2002)
+2457,   Waydowntown
+2459,   The First Time (2009)
+2461,   Northanger Abbey (2007)
+2465,   Birdemic: Shock and Terror (2010)
+2467,   Waterloo Bridge
+2468,   The Ledge (2011)
+2473,   X+Y / A Brilliant Young Mind (2014)
+2475,   Southpaw (2015)
+2476,   Trumbo
+2477,   A Cinderella Story: Once Upon A Song (2011)
+2478,   The Belko Experiment (2016)
+2479,   BoratFilms
+2480,   American Made (2017)
+2482,"   Everything, Everything"
+2483,   First Reformed
+2485,   Cold War (Zimna wojna; 2018)
+2486,   Eighth Grade (2018)
+2487,   Roma (2018)
+2488,   A Nasty Piece of Work (2019)
+2489,   The Garden Of Evening Mist
+2490,   Desperados
+2492,   The Maid
+2494,   Chicken Little (2005)
+2496,   When The Wind Blows (1986)
+2500,   Smallfoot
+2501,   Belle (2013)
+2505,   A Star is Born (2018)
+2508,   Luce (2019)
+2510,   Invisible Sister
+2511,"   Like Father, Like Son (2013)"
+2512,   Barton Fink
+2514,   The Hudsucker Proxy
+2515,   Pee-wee's Big Adventure (1985)
+2517,   The Love Bug (1968)
+2518,   Straight Outta Compton (2015)
+2519,   Happiness (1998)
+2521,   Barbie: Fairytopia
+2522,   The Witch
+2523,   The Search For Santa Paws
+2526,"   Through a Glass Darkly (Såsom i en spegel, 1961)"
+2527,   The Perfection
+2528,   Shoot 'Em Up (2007)
+2529,   Bewitched (2005)
+2532,   DAU. Natasha (2020)
+2536,   La Leyenda de la Nahuala
+2538,   Cry-Baby
+2539,   Morning Glory (2010)
+2540,   The Witches (2020)
+2541,   Dora and the Lost City Of Gold (2019)
+2542,   The Queen ( 2006 )
+2544,   The Master of Disguise (2002)
+2547,   The Ritual
+2548,   She's the Man
+2550,   Underwater (2020)
+2551,   Miracle on 34th Street (1947)
+2555,   Below her mouth
+2557,   Hugo (2010)
+2558,   The Crucible (1996)
+2562,   Dirty Dancing: Havana Nights
+2564,   Starter for 10
+2569,   28 Days (2000)
+2570,   Daydream Nation
+2572,   The Meg (2018)
+2575,   The Drug King
+2584,   On the Waterfront
+2585,   Let the Right One In (2008)
+2586,   Cuties (Mignonnes)
+2590,   Olive The Other Reindeer
+2591,   The Flintstones
+2592,   A Christmas Princess
+2593,   Four Christmases/Four Holidays (2008)
+2596,   Twisted Nerve (1968)
+2597,   Rounders (1998)
+2598,   The Prisoner of Zenda (1952)
+2599,   Mr. Magoo's Christmas Carol
+2601,   Keeping Up with the Joneses
+2606,   Mysterious Skin (2004)
+2607,   Ghosts of Girlfriends Past (2009)
+2608,   Life In A Year
+2609,   Serial Mom
+2610,   Mortal Kombat Legends: Scorpion's Revenge (2020)
+2612,   Vanilla Sky (2001)
+2614,   Honest Thief
+2615,   Goodnight Mister Tom
+2619,   Cat People (1942)
+2620,   Fred Claus (2007)
+2622,   Safety (2020)
+2623,   Matinee (1993)
+2624,   Office Space (1999)
+2625,   Sunshine (2007)
+2626,   Far and Away (1992)
+2629,   A Wrinkle in Time (2018)
+2632,   The Professor and the Madman (2019)
+2633,   Drowning Love (2016)
+2634,   Miracle on 34th Street (1994)
+2636,   It's Complicated (2009)
+2638,   Carrie (2002)
+2640,   Pleasantville (1998)
+2641,   Young Victoria (2009)
+2642,   Shakespeare in love
+2646,   Hanna (2011)
+2647,   Villains
+2655,   Brave (2012)
+2677,   The Shining (1980)
+2686,   Joker (2019)
+2691,   Django Unchained (2012)
+2702,   Jennifer's Body (2009)
+2725,   Spirit: Stallion of the Cimarron (2002)
+2728,   Kill Bill (2003)
+2739,   Interview with the Vampire (1994)
+2743,   365 Days (2020)
+2751,   Treasure Planet (2002)
+2762,   Schindler's List (1993)
+2766,   The Mummy (1999 - 2008)
+2771,   The Greatest Showman (2017)
+2772,   Venom (2018)
+2779,   Get Out (2017)
+2780,   Tarzan (1999)
+2781,   Atlantis: The Lost Empire (2001)
+2784,   Hellboy (2004)
+2791,   Full Metal Jacket (1987)
+2802,   Sinbad: Legend of the Seven Seas (2003)
+2812,   Reservoir Dogs (1992)
+2814,   Now You See Me (Franchise)
+2815,   Kick-Ass (2010)
+2831,   The Man from U.N.C.L.E. (2015)
+2833,   Monty Python and the Holy Grail (1979)
+2835,   A Streetcar Named Desire (1951)
+2836,   Train to Busan (2016)
+2844,   The Half of It (2020)
+2855,   Enola Holmes (2020)
+2857,   Casino (1995)
+2866,   City of God (2002)
+2871,   Alita: Battle Angel (2019)
+2873,   Shark Tale (2004)
+2876,   Rain Man (1988)
+2882,   Mr. & Mrs. Smith (2005)
+2892,   Blue Velvet (1986)
+2893,   Deadpool (2016)
+2895,   Mid90s (2018)
+2897,   Chicken Run (2000)
+2900,   Midnight in Paris (2011)
+2902,   Nerve (2016)
+2912,   Battle Royale
+2915,   Friends with Benefits
+2918,   Predator
+2930,   Happy Gilmore (1996)
+2935,   Sleeping Beauty (1959)
+2946,   Drive (2011)
+2951,   The Hitchhiker's Guide to the Galaxy (2005)
+2957,   Léon: The Professional (1994)
+2970,   The Devil Wears Prada (2006)
+2973,   The Mask of Zorro (1998)
+2977,   Breathless (1960)
+2979,   The Revenant (2015)
+2983,   9 (2009)
+2988,   Flushed Away (2006)
+2993,   Valerian and the City of a Thousand Planets (2017)
+2995,   Charlie’s Angels (2000)
+2996,   Disturbia (2007)
+3006,   V for Vendetta (2005)
+3016,   Home (2015)
+3030,   The Virgin Suicides (1999)
+3032,   Kong: Skull Island (2017)
+3035,   Bad Moms (2016)
+3038,   The Santa Clause (trilogy)
+3039,   North By Northwest (1959)
+3042,   Fantastic Mr. Fox (2009)
+3046,   La Haine (1995)
+3051,   Memories Of Murder (2003)
+3057,   Spy Kids (2001)
+3058,   Fritz The Cat
+3075,   The Edge of Seventeen (2016)
+3079,   Falling Down (1993)
+3094,   Terminator
+3098,   Primal Fear (1996)
+3109,   The Golden Compass (2007)
+3117,   Shaun Of The Dead
+3127,   Closer (2004)
+3134,   The Call (2020)
+3136,   School of Rock (2003)
+3152,   Honey Boy (2019)
+3157,   Fatal Attraction (1987)
+3160,   Billy Elliot (2000)
+3167,   The Hitman's Bodyguard (2017)
+3169,   Thelma & Louise (1991)
+3173,   American Hustle (2013)
+3176,   Creep
+3184,   Green Street Hooligans (2005)
+3186,   Ready or Not (2019)
+3193,   E.T. the Extra-Terrestrial (1982)
+3198,   The Raid (2011)
+3200,   The Pianist (2002)
+3201,   First Man (2018)
+3203,   Little Shop of Horrors
+3212,   Ben-Hur (1959)
+3213,   The Warriors (1979)
+3214,   The Mortal Instruments: City of Bones (2013)
+3215,"   Lock, Stock and Two Smoking Barrels (1998)"
+3220,   It Follows (2014)
+3224,   Palo Alto (2013)
+3229,   Withnail & I (1987)
+3230,   The Goldfinch (2019)
+3233,   Once Upon a Time in the West (1968)
+3237,   Gully Boy (2019)
+3240,   Fantastic Four (2015)
+3248,   Slumdog Millionaire (2008)
+3250,   Tucker & Dale vs. Evil (2010)
+3251,   Something's Gotta Give (2003)
+3252,   The Prince of Egypt (1998)
+3257,   Rango
+3262,   Atomic Blonde
+3267,   Million Dollar Baby (2004)
+3272,   My Sassy Girl (2001)
+3274,   My Life as a Zucchini
+3277,   Super Dark Times (2017)
+3280,   West Side Story (1961)
+3281,   Seven Samurai (1954)
+3283,   Ready Player One (2018)
+3285,   Nightcrawler (2014)
+3286,   Our Times (2015)
+3288,   The Fighter (2010)
+3294,   The English Patient
+3302,   Downfall (2004)
+3304,   There's Something About Mary (1998)
+3306,   Cool Hand Luke (1967)
+3313,   Glengarry Glen Ross (1992)
+3317,   Doctor Zhivago (1965)
+3318,   La Strada (1954)
+3320,   I Love You Phillip Morris (2009)
+3321,   Mortdecai (2015)
+3324,   Dead Man's Shoes (2004)
+3328,   Klaus (2019)
+3329,   Scent of a Woman (1992)
+3330,   The Favourite (2018)
+3331,   Power Rangers (2017)
+3337,   The King Of Comedy (1982)
+3338,   Hell or High Water
+3342,   James and the Giant Peach ( 1996)
+3344,   Dawn of the Dead (1978)
+3345,   War of the Worlds (2005)
+3347,   Eurovision Song Contest: The Story of Fire Saga
+3348,   Flash Gordon (1980)
+3353,   The Trial of the Chicago 7 (2020)
+3354,   Antz (1998)
+3355,   The Sisters Brothers (2018)
+3356,   Richard Jewell (2019)
+3359,   Elvira: Mistress of the Dark (1988)
+3361,   Mary and the Witch's Flower (2017)
+3363,   The Untouchables (1987)
+3364,   Threat Level Midnight (2019)
+3368,   Frances Ha (2012)
+3369,   Let it Shine
+3374,   Layer Cake (2004)
+3379,   Terkel in Trouble (Terkel i knibe; 2004)
+3381,   Mansfield Park (1999)
+3382,   Big Daddy
+3385,   Watership Down (1978)
+3388,   6 Underground (2019)
+3389,   Halloweentown (1998)
+3391,   Rashomon (1950)
+3392,   Quills (2000)
+3398,   Michael Clayton (2007)
+3399,   From Dusk Till Dawn (1996)
+3402,   Murder by Numbers (2002)
+3404,   Highlander (1986)
+3407,   The Basketball Diaries (1995)
+3411,   Missing Link (2019)
+3413,   Cool World (1992)
+3418,   Vampire Academy: Blood Sisters (2014)
+3420,   Queen of the Damned
+3425,   21 (2008)
+3428,   Pixels
+3432,   Life as We Know It (2010)
+3433,   Mortal Kombat films
+3435,   The Call of the Wild (2020)
+3436,   Strange Days (1995)
+3438,   Prince Of Egypt (1998)
+3442,   The Fundamentals of Caring (2016)
+3444,   Hot Summer Nights (2017)
+3447,   Eragon (2006)
+3448,   In the Heart of the Sea (2015)
+3449,   Memento (2000)
+3450,   Dirty Grandpa (2016)
+3456,   Point Break (1991)
+3457,   The Diary of a Teenage Girl (2015)
+3458,   Manic (2001)
+3460,   Never Been Kissed (1999)
+3466,   Underworld
+3467,   The Book of Sun (شمس المعارف)
+3471,   Annie Hall (1977)
+3473,   Soul (2020)
+3476,   Dangerous Liaisons (1988)
+3477,   Flight of the Navigator (1986)
+3480,   The Squid and the Whale
+3489,   The Talented Mr. Ripley (1999)
+3490,   The Abyss
+3494,   The Blue Lagoon (1980)
+3496,   Set It Up (2018)
+3509,   Sling Blade (1996)
+3511,   Funny Girl
+3516,   Big Trouble in Little China (1986)
+3522,   Doom (2005)
+3528,   Day of the Dead (1985)
+3530,   The Dead Zone (1983)
+3537,   Kangaroo Jack
+3540,   Teenage Mutant Ninja Turtles (1990-2016)
+3542,   The Accountant (2016)
+3547,   Batman (1966)
+3548,   Menace II Society (1993)
+3566,   Cannibal Holocaust
+3571,   Stuck in Love
+3580,   Big Time Adolescence
+3582,   Kubo and the Two Strings (2016)
+3585,   The Magnificent Seven (2016)
+3592,   Seksmisja ( 1984)
+3598,"   L'armata Brancaleone (For Love and Gold, 1966)"
+3603,   Whiskey Tango Foxtrot (2016)
+3610,   We Are Your Friends (2015)
+3611,   Anna and the Apocalypse
+3615,   The House with a Clock in its Walls (2018)
+3616,   October Sky (1999)
+3624,   The Birds (1963)
+3626,   Overlord
+3635,   A Knight's Tale (2001)
+3637,   Bad Boys (1983)
+3638,   Dredd (2012)
+3639,   Kicking And Screaming
+3641,   Freedom Writers (2007)
+3646,   Bicycle Thieves (1948)
+3649,   Possum
+3650,   Hush
+3668,   Banker Bilo
+3672,   Out of Africa (1985)
+3687,   Munich (2005)
+3688,   Nacho libre (2006)
+3690,   The Tourist (2010)
+3692,   The Flowers of War (2012)
+3694,   Oblivion ( 2013 )
+3695,   Mommy (2014)
+3702,   Capernaum (2018)
+3703,   Lords of Chaos (2018)
+3704,   The Nightingale ( 2018)
+3711,   Upside Down Magic
+3717,   Wag the Dog (1997)
+3719,   He's Just Not That Into You
+3724,   Kiss Kiss Bang Bang
+3725,   Stealing Beauty (1996)
+3733,   Windstruck (2004)
+3735,   The Mist (2007)
+3737,   The Hunt (Jagten; 2012)
+3744,   An American Tail (1986)
+3748,   Nacional-Incelismo
+3753,   The Cheetah Girls (franchise)
+3755,   Kanlı Nigar (1981)
+3757,   Miracle in Cell No. 7 (2019)
+3761,   Tulip Fever (2017)
+3765,   Strange Brew (1983)
+3767,   The Butterfly Effect (2004)
+3768,   Kolya (1996)
+3769,   Fanatyk (2017)
+3770,   Gnome Alone (2017)
+3771,   The Legend of Hercules ( 2014)
+3774,   Central Station (1998)
+3779,   Love on a Leash
+3780,   Red Heat (1988)
+3781,   A Simple Plan (1998)
+3785,   Boys (1996)
+3790,   Crows Zero (2007)
+3791,   Buck Rogers in the 25th Century (1979)
+3792,   Mohabbatein (2000)
+3795,   American Gangster (2007)
+3796,   The Treasure of the Sierra Madre (1948)
+3797,   Love & Friendship (2016)
+3798,   Rise of the Planet of Apes
+3805,   The Last Song (2010)
+3808,   Margin Call
+3810,   Osmosis Jones (2001)
+3811,   The Running Man (1987)
+3815,   The Edge (1997)
+3817,   Jersey Boys
+3819,   Henry: Portrait of a Serial Killer
+3825,   Daredevil (2003)
+3827,   Jack the Giant Slayer ( 2013 )
+3828,   Batman: Mask of the Phantasm
+3831,   Red Dragon (2002)
+3836,   After
+3841,   Monster-In-Law (2005)
+3842,   Warrior (2011)
+3843,   Failure to Launch
+3848,   Meet Dave (2008)
+3849,   The Nutty Professor (1963)
+3851,   The Peanut Butter Falcon
+3852,   The Ugly Truth (2009)
+3858,   One Hundred and One Dalmatians (1961)
+3859,   Bir Zamanlar Anadolu'da (2011)
+3863,   Dune (1984)
+3866,   The Huntsman: Winter's War
+3874,"   sex, lies, and videotape"
+3879,   Tigerland (2000)
+3881,   Get Carter (1971)
+3882,   Highway (2002)
+3886,   Da 5 Bloods (2020)
+3887,   My Annoying Brother (2016)
+3888,   Sıfır Bir
+3890,   Capone (2020)
+3901,   Zero Motivation (2014)
+3904,"   Bagi, the Monster of Mighty Nature"
+3906,   English Vinglish
+3908,   American Ultra (2015)
+3909,   Alien vs. Predator (2004)
+3910,   Taegukgi (2004)
+3913,   Corpus Christi (Boże ciało; 2019)
+3914,   The Werewolf Game: The Villagers Side
+3918,   Mystery Alaska
+3922,   Up in the Air (2009)
+3924,   Hesher (2010)
+3925,   Words and Pictures
+3927,   Dolittle (2020)
+3928,   U-Turn (1997)
+3929,   Prince of Persia: The Sands of Time (2010)
+3931,   The Wrong Missy (2020)
+3932,   Extra Ordinary
+3936,   2 Guns
+3938,   Swiped
+3940,   Submarine
+3943,   In the Valley of Elah (2007)
+3944,   Velvet Goldmine (1998)
+3946,   Wristcutters - A Love Story
+3950,   Death Becomes Her (1992)
+3957,   Nebraska (2013)
+3961,   Get Smart (2008)
+3970,   Shaft
+3976,   Shane (1953)
+3986,   Birdy (1984)
+3994,   Terms of Endearment (1983)
+4001,   Benny & Joon (1993)
+4005,   Double Impact ( 1991)
+4006,   Drop Dead Fred (1991)
+4008,   The Fisher King ( 1991)
+4012,   A Civil Action (1998)
+4013,   A Perfect Murder
+4022,   Banlieue 13
+4030,   There Was a Beautiful Woman (2004)
+4033,   The Duchess (2008)
+4035,   Killshot (2008)
+4036,   La Vie en rose (2007)
+4037,   Land of the Dead (2005)
+4038,   Sahara (2005)
+4039,   Speed Racer (2008)
+4040,   Step Up (All Movies)
+4041,   What Happens in Vegas (2008)
+4042,   The A-Team (2010)
+4043,   Boy (2010)
+4045,   Battle: Los Angeles (2011)
+4047,   As You Are
+4048,   Life of Pi (2012)
+4049,   The Incredible Burt Wonderstone (2013)
+4056,   Summer's Shadow (2014)
+4057,   Hardcore Henry (Хардкор; 2015)
+4062,   Belle Du Jour (1967)
+4063,   Patriots Day
+4067,   Mowgli: Legend of the Jungle ( 2018)
+4068,   On the Basis of Sex
+4070,   The Boy Who Would Be King (2019)
+4076,   Monos (2019)
+4082,   An Extremely Goofy Movie (2000)
+4084,   The F**k-It list
+4090,   Peter Rabbit (2018-2020)
+4091,   Ölümlü Dünya (2018)
+4098,   Where the wild things are
+4102,   Wild Tales (2014)
+4105,   Dadnapped
+4106,   Weird Science (1985)
+4110,   Once Upon A Forest
+4112,   Invasion of the Body Snatchers (1978)
+4118,   Notorious (2009)
+4119,   Beowulf
+4121,   The Man in the Iron Mask
+4122,   Pacific Rim (2013)
+4123,   All Day And A Night (2020)
+4125,   Endless Love (2014)
+4126,   Demolition (2015)
+4129,   The Getaway (1972)
+4130,   Mississippi Burning
+4133,   Velvet Buzzsaw (2019)
+4134,   El ciudadano ilustre
+4136,   Eat Drink Man Woman
+4139,   Ruby Sparks
+4140,   The League of Extraordinary Gentlemen (2003)
+4141,   Vanity Fair ( 2004 )
+4143,   Les Choristes (2004)
+4147,   The African Queen
+4150,   The Bucket List ( 2007)
+4154,   Freaks (1932)
+4155,   Cashback
+4157,   Trainwreck (2015)
+4158,   Avatar (2009)
+4160,   Gilda (1946)
+4161,   Di Bawah Umur (2020)
+4167,   Turner & Hooch ( 1989 )
+4170,   The Scorpion King
+4172,   Comrades: Almost a Love Story (1996)
+4173,   The Long Hair of Death (1964)
+4178,   Big ( 1988)
+4185,   Men of honor (2000)
+4188,   Need for Speed (2014)
+4189,   Practical Magic (1998)
+4193,   Soldaat van Oranje / Soldier of Orange (1977)
+4196,   Rebecca
+4201,   Daniel isn't real
+4204,   Turbo
+4210,   BrightBurn (2019)
+4211,   Badlands (1973)
+4213,   The Prince and Me (2004)
+4215,   The Runaways (2010)
+4217,   Ghost Town (2008)
+4222,   American Animals
+4223,   Hercules (2014)
+4224,   Starman (1984)
+4225,   Nymphomaniac (2013)
+4230,   Apollo 13 (1995)
+4231,   The Wedding Planner
+4233,   Johnny English Reborn
+4236,   Bowfinger (1999)
+4240,   It Takes Two (1995)
+4242,   Old School (2003)
+4243,   Dragonheart
+4244,   Midway (2019)
+4247,"   Fala Sério, Mãe!"
+4249,   Confissões de Adolescente
+4252,   The Machinist (2004)
+4257,   Extraction (2020)
+4261,   Valentine (2001)
+4263,   Copenhagen
+4264,   Madame Bovary (2014)
+4265,   I Spit On Your Grave (Remake Saga)
+4270,   Shinobi no Mono
+4317,   WALL·E (2008)
+4335,   The Lighthouse (2019)
+4347,   The Sound of Music (1965)
+4371,   Pan's Labyrinth (2006)
+4389,   The Polar Express (2004)
+4399,   Elf (2003)
+4410,   The Graduate (1967)
+4414,   Interstellar (2014)
+4442,   The Little Prince (2015)
+4451,   The Amazing Spider-Man (2012)
+4474,"   Three Billboards Outside Ebbing, Missouri (2017)"
+4481,   The Shape of Water (2017)
+4484,   Dr. Strangelove (1964)
+4485,   Prisoners (2013)
+4487,   Mr. Peabody & Sherman (2014)
+4488,   Anne of Green Gables (1985)
+4501,   Gladiator (2000)
+4502,   Blade Runner
+4529,   Moneyball (2011)
+4579,   The Iron Giant (1999)
+4582,   Ford v Ferrari / Le Mans '66 (2019)
+4589,   The Place Beyond the Pines (2012)
+4590,   The Royal Tenenbaums (2001)
+4592,   Anchorman (2004)
+4619,   Master and Commander: The Far Side of the World (2003)
+4620,   A Christmas Story (1983)
+4622,   Suicide Room (2011)
+4630,   Matilda (1996 film)
+4638,   True Grit (2010)
+4644,   Airplane! (1980)
+4645,   In Bruges (2008)
+4647,   Sucker Punch (2011)
+4650,   Spies in Disguise (2020)
+4667,   Apocalypse Now (1979)
+4669,   Dumb and Dumber (1994)
+4676,   Gifted (2017)
+4677,   The Book Thief (2013)
+4702,   Tenet (2020)
+4710,   Stoker (2013)
+4718,   Palm Springs
+4720,   Long Shot (2019)
+4735,   16 Wishes
+4748,   Batman Forever (1995)
+4751,   Rebecca (2020)
+4758,   Gattaca (1997)
+4760,   Small Soldiers ( 1998 )
+4769,   Death Note (2006)
+4770,   Never Look Away (2018)
+4771,   The Tree of Life
+4775,   Paths of Glory (1957)
+4778,   Total Recall (1990)
+4814,   A Fish Called Wanda ( 1988 )
+4827,   Nocturnal Animals (2016)
+4832,   Kung Fu Hustle (2004)
+4840,   The Nun
+4853,   A Woman is a Woman (1961)
+4857,   Mommie Dearest (1981)
+4858,   Isle of Dogs (2018)
+4866,   Limitless (2011)
+4879,   Drugstore Cowboy (1989)
+4880,   Great Expectations (1998)
+4882,   The Perfect Date (2019)
+4885,   The Invisible Guest (Contratiempo; 2016)
+4893,   The Guernsey Literary and Potato Peel Pie Society (2018)
+4900,   Killer Bean Forever
+4905,   The Adventures of Sharkboy and Lavagirl (2005)
+4927,   The Town (2010)
+4935,   Precious (2009)
+4939,   Superman
+4940,   Lemony Snicket's A Series of Unfortunate Events (2004)
+4943,   The Last of the Mohicans (1992)
+4950,   Event Horizon
+4955,   National Treasure (2004)
+4956,   Barbie as The Nutcracker (2001)
+4957,   Silent Hill (2006-2012)
+4961,   Wild Child (2008)
+4966,   Carol (2015)
+4967,   Spy (2015)
+4975,   Breakfast at Tiffany's (1961)
+4981,   Moonrise Kingdom (2012)
+4984,   Aquamarine (2006)
+4986,   Brooklyn (2015)
+4988,   The Love Witch (2016)
+4990,   The Fox And The Hound (1981)
+4993,   What About Bob?
+5002,   Stalingrad (1993)
+5006,   Just Friends (2005)
+5009,   Romeo & Juliet
+5014,   Brazil (1985)
+5022,   Unbroken (2014)
+5032,   We Have Always Lived in the Castle (2018)
+5033,   Me Before You (2016)
+5038,   Thoroughbreds (2018)
+5040,   Hachi: A Dog's Tale (2009)
+5051,   The Color Purple (1985)
+5052,   A Cure for Wellness
+5054,   The Fugitive (1993)
+5071,   The Other Guys
+5072,   The Host (2013)
+5110,   Drive Me Crazy (1999)
+5113,   The Third Man (1949)
+5116,   Say Anything... (1989)
+5123,   Fallen Series
+5132,   Creepshow (1982)
+5133,   Jumper (2008)
+5139,   Ace Ventura: Pet Detective (1994)
+5141,   In the Mouth of Madness (1994)
+5149,   The Dreamers (2003)
+5164,   Sully (2016)
+5170,   Gangster Squad
+5185,   Fatman (2020)
+5191,   La Vita Davanti a sé
+5197,   Stargirl (2020)
+5202,   Mr. Smith Goes to Washington (1939)
+5205,   The Name of the Rose (1986)
+5217,   Jason Bourne
+5225,   How to Lose a Guy in 10 days
+5232,   Arctic Dogs
+5234,   Days of Thunder (1990)
+5239,   Air Force One (1997)
+5242,   The Hand That Rocks the Cradle (1992)
+5248,   Limelight (1952)
+5249,   Tolo Tolo
+5251,   Crimson Peak (2015)
+5252,   Angel (2007)
+5253,   Mystic River (2003)
+5265,   Planet of the Apes (2001)
+5267,   Cop Land (1997)
+5271,   Apostle (2018)
+5282,   Children of the corn
+5290,   Zero Dark Thirty (2012)
+5291,   scooby doo ghoul school
+5294,   Alexander Nevsky (1938)
+5313,   Drácula: Untold
+5318,   Four Sisters and a Wedding
+5324,   Audition (1999)
+5326,   London Has Fallen
+5328,   No Strings Attached (2011)
+5329,   Rumble Fish
+5338,   Salò o le 120 giornate di Sodoma (1975)
+5339,   Walk the Line (2005)
+5344,   Bugsy Malone
+5355,   Om Movie [Kannada]
+5358,   Cold Pursuit (2019)
+5360,   ...And Justice For All (1979)
+5361,   Robin Hood (2010)
+5362,   Shadow of a Doubt (1943)
+5363,   Tokyo Story (1953)
+5369,   The Natural (1984)
+5371,   Kate & Leopold
+5374,   Kyua (Cure) (1997)
+5376,   Everyone Says I Love You (1996)
+5378,   Machuca (2004)
+5384,   Philadelphia (1993)
+5389,   Crash (1996)
+5390,   La Bête Humaine (1938)
+5393,   Jane Eyre ( 1996)
+5394,   Ordinary People (1980)
+5401,   The Last Samurai (2003)
+5402,   Baazigar
+5409,   Tekken (2009)
+5415,   When Eight Bells Toll (1971)
+5419,   The Adventures of Robin Hood (1938)
+5421,   The Great Dictator (1940)
+5423,   The Day the Earth Stood Still (1951)
+5426,"   Alice, Sweet Alice (Communion)"
+5429,   Cape Fear (1991)
+5430,   L'Avventura (1960)
+5444,   But I'm a Cheerleader (1999)
+5464,   For Love or Money (1993)
+5465,   Kindergarten Cop ( 1990)
+5466,   The Lawnmower Man (1992)
+5468,   Night of the Living Dead (1990)
+5470,   Wolf (1994)
+5473,   Contact (1997)
+5475,   Fools Rush In (1997)
+5480,   Outbreak (1995)
+5482,   Persuasion ( 1995 )
+5485,   Muriel's Wedding (1994)
+5490,   Lara Croft: Tomb Raider (2001)
+5492,   The Legend of Tarzan ( 2016 )
+5496,   Willard (2003)
+5498,   The Box (2009)
+5502,   The Day the Earth Stood Still (2008)
+5510,   A Monster in Paris
+5511,   The Adjustment Bureau (2011)
+5512,   The Human Centipede II
+5513,   Once Upon a Time in Anatolia (2011)
+5518,   Nebraska
+5521,   Mustang (2015)
+5528,   Baby Boom (1987)
+5532,   Arkansas (2020)
+5537,   Bedtime Stories (2008)
+5545,   Dilwale Dulhania Le Jayenge
+5552,   Mary Poppins Returns (2018)
+5553,   Balto (1995)
+5556,   Umberto D
+5563,   Daddy day care (2003)
+5578,   Yellow Submarine (1968)
+5580,   Belladonna of Sadness
+5582,   Forbidden Planet ( 1956 )
+5588,   Shallow Hal (2001)
+5592,   Defiance (2008)
+5599,   Harry Palmer
+5600,   White Fang (1991)
+5601,"   Definitely, Maybe"
+5602,   The King And I (1999)
+5604,   The Wicker Man (2006)
+5605,   Bullitt (1968)
+5610,   King Arthur: Legend of the Sword (2017)
+5611,   Le Gendarme
+5616,   Panipat
+5617,   Shutter Island (2010)
+5621,   Трудные подростки
+5624,   It's Only the End of the World
+5627,"   Taxi ( تاکسی , 2015)"
+5629,   Jarhead
+5630,   Der Kommer en Dag (The Day will come)
+5631,   The Little Panda Fighter
+5633,   City Of Ember
+5634,   The Poughkeepsie Tapes
+5643,   Front of the Class (2008)
+5650,   The 400 Blows (1959)
+5652,   Nativity (2009)
+5656,   Mixed Nuts
+5666,   The Searchers (1956)
+5671,   Last Christmas (2019)
+5676,   My best enemy (Mi mejor enemigo) (2005)
+5680,   Modo Avião
+5684,   Hannah Montana: The Movie (2009)
+5685,   Hugo (2011)
+5690,   Revolver (2005)
+5692,   Inheritance
+5714,"   O Brother, Where Art Thou?"
+5749,   Eternal Sunshine of the Spotless Mind (2004)
+5791,   It's a Wonderful Life (1946)
+5808,   Bridge to Terabithia (2007)
+5826,   The Grand Budapest Hotel (2014)
+5830,   Life Is Beautiful (1997)
+5851,   Kill Your Darlings (2013)
+5854,   Hereditary (2018)
+5882,   Jumanji (1995)
+5905,   Barbie: Fairytopia (2005)
+5913,   Miss Congeniality ( 2000-2005)
+5917,   Vertigo (1958)
+5919,   Sierra Burgess Is a Loser (2018)
+5925,   Burning (2018)
+5943,   Wall Street (1987)
+5949,   The Pursuit of Happyness (2006)
+5951,   Bad Genius
+5952,   Garden State (2004)
+5953,   About Time (2013)
+5962,   Sorry to Bother You (2018)
+5973,   Blue Valentine (2010)
+5985,   Gran Torino (2008)
+5989,   The Deer Hunter (1978)
+5990,   The Interview (2014)
+5994,   Love & Other Drugs (2010)
+5995,   Zorba the Greek (1964)
+5996,   Love and Monsters
+5999,   Inherent Vice (2014)
+6000,   The Old Guard (2020)
+6002,   The Blair Witch Project (1999)
+6011,   The Motorcycle Diaries (2004)
+6018,   Heavenly Creatures (1994)
+6027,   Good Burger (1997)
+6029,   Dinosaur (2000)
+6034,   Run (2020)
+6041,   Constantine (2005)
+6046,   Come and See (1985)
+6050,   Paterson
+6053,   Barbie : The Princess And The Popstar
+6060,"   Planes, Trains and Automobiles (1987)"
+6064,   The Disaster Artist
+6067,   Ramona and Beezus (2010)
+6073,   Lost in Translation (2003)
+6075,   Enemy at the Gates (2001)
+6087,   Poltergeist (1982)
+6093,   Earthquake Bird (2019)
+6094,   The Nice Guys (2016)
+6103,   The Age of Innocence (1993)
+6106,   Anomalisa (2015)
+6115,   The Internship (2013)
+6119,   Godmothered (2020)
+6123,   So I Married an Axe Murderer (1993)
+6124,   Erin Brockovich (2000)
+6127,   Mr. Bean's Holiday (2007)
+6132,   The Pirates! In an Adventure with Scientists! (2012)
+6135,   The Skeleton Twins (2014)
+6142,   Inception (2010)
+6146,   A Single Man (2009)
+6149,   Catwoman (2004)
+6153,   George of the Jungle (1997-2003)
+6167,   Serendipity (2001)
+6169,   Jab We Met (2007)
+6171,   Kal Ho Naa Ho
+6172,   The Extraordinary Adventures of Adèle Blanc-Sec
+6184,   Notorious (1946)
+6188,   Seeking a Friend for the End of the World
+6191,   Kirikou and the Sorceress (1998)
+6198,   Like Stars on Earth (2007)
+6200,   My Best Friend's Wedding (1997)
+6203,   Nim's Island
+6204,   Tag (2018)
+6206,   Mr. Nobody (2009)
+6208,   The Scarlet Pimpernel (1982)
+6211,   Happy Go Lucky
+6218,   Blood Diamond (2006)
+6221,   Tully (2018)
+6227,   Color Out of Space
+6232,   Buffy the Vampire Slayer (1992)
+6233,   Notting Hill (1999)
+6234,   Suspiria (2018)
+6241,   The New World (2005)
+6248,   Two Blue Stripes (2019)
+6249,   Remember Me (2010 )
+6256,   The Meyerowitz Stories (2017)
+6261,   The Breadwinner
+6265,   Krrish (Film Series)
+6269,   An American Pickle
+6273,   The Crush (1993)
+6283,   Along With The Gods
+6284,   Minutemen (Disney)
+6288,   Modern Times (1936)
+6291,   Field of Dreams (1989)
+6301,   Run Lola Run (1998)
+6302,   Teenager The drama queen
+6303,   My Sassy Girl
+6306,   Charlie Chan
+6307,   Bad Santa (2003- 2016)
+6324,   Can You Ever Forgive Me? (2017)
+6326,   The Last Black Man in San Francisco
+6329,   Song of the South (1946)
+6333,   Troop Zero
+6348,   Pump Up the Volume (1990)
+6350,   Five Easy Pieces (1970)
+6356,   Breakfast on Pluto (2005)
+6357,   The Red Shoes
+6358,   Tommy Boy ( 1995 )
+6359,   Zindagi Na Milegi Dobara
+6365,   Rebel Without a Cause (1955)
+6366,   The Piano (1993)
+6373,   Legend (1985)
+6383,"   Fanny and Alexander (Fanny och Alexander, 1982)"
+6391,   The World's Fastest Indian (2005)
+6394,   A Christmas Carol (2009)
+6395,   The Pilgrim's Progess (2005)
+6402,"   One Sings, the Other Doesn't (1977)"
+6415,   Barbie In A Christmas Carol
+6422,   Himizu (2011)
+6426,   Cabaret (1972)
+6428,   Ginger and Fred (1986)
+6433,   The Men Who Stare at Goats (2009)
+6437,   Barbarella
+6439,   Maverick (1994)
+6442,   Red Desert (1964)
+6447,   The Rocky Horror Picture Show (2016)
+6451,   The Cuckoo (2002)
+6454,   Dorian Gray (2009)
+6457,   Short Term 12 (2013)
+6460,   White Oleander (2002)
+6462,   The Whole Nine Yards (2000)
+6465,   Tell it to the Bees (2018)
+6469,   One Small Hitch (2012)
+6471,   Tom Sawyer (1973)
+6473,   Tinker Tailor Soldier Spy (2011)
+6476,   I'm Not There (2007)
+6479,   Wind River
+6481,   Fame (1980)
+6482,   Summerland (2020)
+6484,   The Blackcoat's Daughter
+6488,   The General (1926)
+6489,   The Tale of Despereaux (2008)
+6490,   Norma Rae ( 1979 )
+6491,   Forgotten (K Movie)
+6502,   Arizona Dream (1993)
+6504,   Four Friends (1981)
+6506,   April and the Extraordinary World
+6507,   Oblivion Island: Haruka and the Magic Mirror
+6508,   Man on the Moon ( 1999 )
+6510,   The Painter and the Thief (2020)
+6518,   A Scanner Darkly (2006)
+6524,   Medianeras
+6526,   The Old Man & the Gun
+6538,   Elisa & Marcela (2019)
+6539,   MAMA (2013)
+6540,   Sweet Bean (An) (2015)
+6541,   Hannah and Her Sisters (1986)
+6542,   Plus One (2019)
+6546,   The Counselor
+6547,   Martín (Hache)
+6549,   The Wind In The Willows (1984)
+6551,   Listen Up Philip
+6557,   Goon (2011)
+6559,   Das Boot (1981)
+6560,   Animado
+6561,   La Belle Époque (2019)
+6563,   Agora
+6567,   Green Room
+6569,   Ice Princess (2005)
+6571,   Molly Maxwell (2013)
+6572,   My Name Is Khan
+6578,   M (1931)
+6579,   The Bad Seed (1956)
+6583,   Day of Anger (i Giorni dell'ira; 1967)
+6584,   Just Like Heaven (2005)
+6589,   Love and Death (1975)
+6595,   Rock Dog
+6596,   The Worst Witch (1986)
+6597,   Awakenings (1990)
+6600,   The Adventures of Pinocchio (1996)
+6601,   An Awfully Big Adventure (1995)
+6603,   Human Traffic
+6604,   Mifune / Mifunes sidste sang (1999)
+6609,   Down to you
+6611,   Kopps (2003)
+6615,   Dear Zachary: A Letter to a Son About His Father
+6618,"   You, Me, and Dupree ( 2006)"
+6624,   So I Married An Anti-fan (2016)
+6626,   The Dressmaker (2015)
+6630,   The Dark Maidens (2017)
+6632,   Wildlife (2018)
+6637,   Igor
+6639,   Rover Dangerfield
+6645,   Jack Frost (1979)
+6650,   Possession (1981)
+6653,   No reservations (2007)
+6658,   Girls With Balls
+6660,   Flåklypa « The Pinchcliffe Grand Prix» and the other movies
+6669,   Fahrenheit 451 (1966)
+6673,   Dave Made a Maze
+6677,   Delibal
+6681,   Raya and the Last Dragon (2021)
+6687,   Head-On (Gegen die Wand)
+6690,   The Man Who Knew Infinity (2015)
+6691,   Goosebumps (2015)
+6700,   Kramer vs. Kramer
+6701,   The Big Sick (2017)
+6703,   Love is Everything/Miłość jest wszystkim
+6708,   Superintelligence (2020)
+6709,   Your Highness (2011)
+6711,   Lilya 4-ever (2002)
+6715,   The Wicker Man ( 1973)
+6716,   Caro diario (1993)
+6720,   Demain Tout Commence
+6722,   Judy Moody and the Not Bummer Summer
+6725,   The Thirteenth Floor
+6730,   Dumbo (2019)
+6747,   Borrowed Hearts
+6749,   You Don’t Mess with the Zohan
+6756,   Nostalghia (1983)
+6760,   The Machine (2013)
+6766,   Popstar: Never Stop Never Stopping
+6786,   The Before Trilogy
+6840,   Five Feet Apart (2019)
+6844,   Her (2013)
+6857,   The Two Popes (2019)
+6861,   The Master (2012)
+6889,   Doctor Sleep (2019)
+6890,   Hitler: The Rise of Evil (2003)
+6895,   The Neverending Story (1984)
+6914,   Beautiful Boy (2018)
+6936,   Mother! (2017)
+6942,   Metropolis (1927)
+6948,   Moonlight (2016)
+6970,   Look Who's Back/Er ist wieder da (2015)
+7006,   Princess Protection Program
+7009,   Blue Jasmine (2013)
+7013,   The Danish Girl (2015)
+7031,   Magic in the Moonlight (2014)
+7044,   Just Mercy (2019)
+7047,   Snow White and the Huntsman
+7056,   Sleepless in Seattle (1993)
+7057,   Minority Report ( 2002)
+7082,   Before We Go (2014)
+7096,   Rushmore (1998)
+7107,   Bolívar el héroe (2003)
+7108,   Milk (2008)
+7116,   Yi Yi (2000)
+7119,   The Secret of Kells (2009)
+7124,   Words on Bathroom Walls (2020)
+7131,   The Man Who Killed Don Quixote (2018)
+7137,   In Time (2011)
+7152,   If I Stay (2014)
+7154,   12 Years a Slave (2013)
+7157,   The Witches (1990)
+7163,   Misery (1990)
+7164,   The Theory of Everything (2014)
+7166,   Hair (1979)
+7182,   Paperman (2012)
+7184,   Rampage (2018)
+7194,   Fantastic Four (2005)
+7200,   papillon (1973)
+7211,   The King and I (1956)
+7232,   Crazy Little Thing Called Love (2010)
+7235,   Breathe (2017)
+7243,   Warcraft (2016)
+7244,   The Boy
+7249,   Ghajini
+7250,   Collateral (2004)
+7255,   Charade (1963)
+7262,   A Taxi Driver
+7270,   Vivarium
+7290,   About a Boy (2002)
+7313,   The Knight Before Christmas (2019)
+7321,   The 3rd Eye (2017)
+7326,   I Origins (2014)
+7333,   Habibie & Ainun (2012)
+7334,   The Promise (2016)
+7336,   All Together Now (2020)
+7338,   Pacific Heights (1990)
+7349,   Body Double (1984)
+7358,   Splice
+7362,   The Girl with All the Gifts (2016)
+7363,   Imagine Me and You (2005)
+7375,   Regression (2015)
+7376,   El cuento de las comadrejas (2019)
+7392,   303 - Unterwegs zur Liebe
+7399,   The Idiots/Idioterne (1998)
+7404,   The Long Goodbye (1973)
+7410,   Countdown
+7415,   The Rabbi's Cat (2011)
+7417,   Elizabeth (1998 - 2007)
+7418,   The Endless
+7422,   Orfeu Negro (Black Orpheus)
+7425,   Red Lights
+7426,   The Lodge
+7431,   Sifir Bir
+7434,   Brief Encounter(1945)
+7446,   Equilibrium (2002)
+7448,   True Stories (1986)
+7453,   Into the Wild
+7466,   Talk to Her (Hable con ella) 2002
+7480,   The Werewolf Game: The Beast Side
+7488,   The Party (2017)
+7490,   Beanpole (2019)
+7511,   Fluppy Dogs
+7518,   Fright Night
+7520,   Asako I & II (2018)
+7525,   Animal Farm (1954)
+7527,   2:22
+7538,   Papillon (2017)
+7539,   Gooby
+7541,   A Woman Under the Influence
+7542,   The Break-Up (2006)
+7543,   Mosul (2019)
+7551,   Black Bear (2020)
+7560,   Kamienie na szaniec (2014)
+7561,   Under The Skin
+7565,   Black Beauty (2020)
+7577,   Trash
+7582,   Stardust Memories
+7583,   Bright Star (2009)
+7589,   Eat Pray Love
+7597,   While We're Young (2014)
+7612,   Call Me by Your Name (2017)
+7667,   Pokémon: Detective Pikachu (2019)
+7674,   The Princess Bride (1987)
+7687,   Ex Machina (2014)
+7689,   The Craft (1996)
+7710,   Jaws (1975)
+7714,   Wallace and Gromit
+7719,   Oldboy (2003)
+7747,   Fear and Loathing in Las Vegas (1998)
+7789,   Death Note (2017)
+7821,   Naked (1993)
+7824,"   Tron / Tron: Legacy (1982, 2010)"
+7839,   Zodiac (2007)
+7841,   12 Monkeys / Twelve Monkeys ( 1995)
+7845,   Better Watch Out
+7855,   Grown Ups
+7858,"   Good Morning, Vietnam (1987)"
+7859,   Roman Holiday (1953)
+7865,   Gravity (2013)
+7867,   Edge of Tomorrow (2014)
+7876,   The Babadook (2014)
+7886,   Escape Room (2019)
+7888,   20th Century Women (2016)
+7891,   1408
+7901,   L.A. Confidential (1997)
+7902,   Stranger than Fiction (2006)
+7906,   Harold and Kumar
+7914,   The Jungle Book (2016)
+7925,   Paul (2011)
+7926,   The Devil's Rejects (2005)
+7929,   The Cable Guy ( 1996)
+7936,   Scary Stories to Tell in the Dark (2019)
+7944,   Con Air
+7951,   Escape Plan (2013)
+7958,   Cinema Paradiso (1988)
+7963,   Maurice (1987)
+7970,   Sword Art Online The Movie: Ordinal Scale (2017)
+7971,   Anger Management (2003)
+7976,   Tomorrowland
+7982,   Demolition Man (1993)
+7987,   Lost Highway
+7997,   The Glass Castle (2017)
+7998,   Bringing Up Baby (1938)
+8007,   The Age of Adaline (2015)
+8017,   Hitch (2005)
+8024,   The Double (2013)
+8027,   Interstate 60 (2002)
+8033,   Total Eclipse (1995)
+8037,   The others (2001)
+8038,   The Lovely Bones (2009)
+8044,   Down with Love (2003)
+8045,   Spartacus (1960)
+8047,   Destination Wedding (2018)
+8051,"   As Above, So Below (2014)"
+8057,   Robin Hood (2018)
+8071,   Dial M for Murder (1954)
+8079,   The Maltese Falcon (1941)
+8092,   Fracture (2007)
+8094,   Eli (2019)
+8113,   A Princess for Christmas
+8114,   Brainscan (1994)
+8123,   The Game (1997)
+8128,   Sherlock Gnomes
+8131,   The Girl Next Door (2004)
+8140,   The Wave (Die Welle; 2008)
+8161,   Two Weeks Notice (2002)
+8171,   What Women Want (2000)
+8173,   El secreto de sus ojos
+8175,   Thank You for Smoking (2005)
+8180,   The Post (2017)
+8185,   Love Letter (1995)
+8188,   Extremely Loud and Incredibly Close (2011)
+8193,   This Beautiful Fantastic (2016)
+8196,   Rafiki (2018)
+8214,   The Plague Dogs (1982)
+8233,   My Name Is Nobody (1973)
+8242,   The Wife (2017)
+8246,"   Like crazy (La pazza gioia, 2016)"
+8248,   Nine Queens (2000)
+8249,"   Alice in the Cities (Alice in den Städten, 1974)"
+8253,"   Leafie, A Hen Into the Wild (2011)"
+8259,   The good son (1993)
+8270,   Bye Bye Brazil
+8275,   River's Edge (1986)
+8278,   The Saint (1996)
+8284,   The Losers (2010)
+8292,   Forever My Girl (2018)
+8298,   Real Genius
+8313,   Robert Langdon
+8316,   The Outlaw Josey Wales (1976)
+8317,   The Italian Job (1969)
+8337,   Valerie and Her Week of Wonders
+8354,   Prince of Darkness (1987)
+8356,   Marley & Me (2008)
+8362,   McMillion$ (2020)
+8369,   Cool Runnings
+8383,   The Nun's Story
+8384,   2001: A Space Odyssey (1968)
+8386,   Young Ahmed
+8388,   Tesla (2020)
+8392,   Time Freak (2018)
+8400,   Mister Blot's Academy (Akademia Pana Kleksa; 1983)
+8407,   Shanghai Knights (2003)
+8413,   All That Jazz (1979)
+8418,   Justice League : Doom
+8423,   From Hell
+8427,   I can't think straight
+8428,   The Hidden Fortress ( 1958)
+8429,   Un Oso Rojo
+8430,   The Sure Thing
+8443,   Svaha: The Sixth Finger
+8454,   The Stepford Wives (2004)
+8458,   Norm of the North
+8460,   Gamer (2009)
+8464,   Enter the Void (2009)
+8467,   Children of Paradise (Les Enfants du Paradis)
+8469,   Strangers on a Train (1951)
+8473,   Il Marchese del Grillo (1981)
+8477,   The Equalizer ( 2014- 2018)
+8480,   The Monster (1994)
+8481,   The 13th Warrior (1999)
+8488,   Primer (2004)
+8491,   Casanova (2005)
+8493,   The Man from Earth (2007)
+8508,   Shirley (2020)
+8515,   Life (2017)
+8521,   Videodrome (1983)
+8536,   Jules and Jim / Jules et Jim (1962)
+8539,   Behind the Mask: The Rise of Leslie Vernon (2006)
+8544,   Disobedience
+8555,   Molly’s Game
+8562,   Lady J (2018)
+8566,   Black Widow
+8572,   Under Siege
+8584,   Ran (1985)
+8590,   The Vast of Night (2019)
+8594,   Gone in 60 Seconds (2000)
+8603,   Killing Bono
+8607,   Sebastiane (1976)
+8608,   Career Opportunities
+8611,   Autumn in New York (2000)
+8614,   A Bridge Too Far (1977)
+8621,   Manos: The Hands of Fate
+8631,   Hum Tum
+8632,   Mujhse Shaadi Karogi
+8709,   Steve Jobs (2015)
+8743,   The Founder (2016)
+8754,   The Handmaiden (2016)
+8774,   Dark Shadows (2012)
+8790,   Braveheart (1995)
+8807,   Batman & Robin (1997)
+8808,   Training Day (2001)
+8830,   Being John Malkovich (1999)
+8875,   Funny Games (2007)
+8882,   What Happened to Monday (2017)
+8883,   Gerald's Game (2017)
+8892,   Hancock (2008)
+8937,   Blade
+8959,   Water for Elephants (2011)
+8969,   The Rock (1996)
+8974,"   Aguirre, the Wrath of God"
+8977,   Eyes Wide Shut (1999)
+8979,   Captain Phillips (2013)
+9005,   Widows (2018)
+9009,   Meet Joe Black (1998)
+9015,   The Ninth Gate (1999)
+9020,   The Time Machine (2002)
+9022,   Real Steel (2011)
+9032,   Motherless Brooklyn (2019)
+9037,   Gretel and Hansel (2020)
+9039,   Chinatown (1974)
+9042,   K-PAX (2001)
+9066,   Legend
+9069,   Anna (2019)
+9072,   Manhunter (1986)
+9082,   Greyhound
+9087,   Speed (1994)
+9093,   Last Tango in Paris (1972)
+9096,   1922 (2017)
+9105,   The Guest (2014)
+9109,   Room (2015)
+9111,   To Die For (1995)
+9118,   The Hobbit (1977)
+9146,   Hobbs And Shaw (2019)
+9147,   Re-Animator (1985)
+9165,   Murder in the First (1995)
+9167,   Mandy (2018)
+9172,   The Omen (1976)
+9175,   War Dogs
+9191,   Die Wannseekonferenz (1984)
+9199,   The Giver (2014)
+9207,   The Aviator
+9208,   From Here to Eternity (1953)
+9218,   The Iron Lady ( 2011 )
+9221,   Funny Face (1957)
+9223,   Phantom of the Paradise (1974)
+9230,   New Jack City (1991)
+9249,   Oculus (2013)
+9280,   Starting Out in the Evening (2007)
+9282,   Inside Man (2006)
+9293,   The Chronicles of Riddick (2004)
+9302,   Aparichit
+9307,   200 Pounds Beauty
+9317,   Hatchet
+9322,   Joe Kidd (1972)
+9331,   2.0
+9338,   Tesis (1996)
+9339,   Julie & Julia (2009)
+9344,   Revolución: El cruce de los Andes (2010)
+9349,   The Pebble and the Penguin (1995)
+9360,   Kung Fury
+9364,   Kesari (2019)
+9368,   Dead Ringers
+9370,   The Bottom of the Sea (El Fondo del Mar; 2003)
+9380,   Cincinnati Kid (1965)
+9387,   Scanners (1981)
+9389,   Lean on Me (1989)
+9410,   Bad Lieutenant
+9419,   Amok (2017)
+9430,   Commando (1985)
+9445,   All the President's Men (1976)
+9448,   Twice Upon A Time (1983)
+9451,   The Duellists (1977)
+9456,   The Sorcerer’s Apprentice (2010)
+9463,   Cadaver
+9469,   Hero (2002)
+9470,   Inherit The Wind
+9476,   Ultraviolet
+9479,   Side Effects
+9483,   Dogville
+9491,   The House of the Spirits (1993)
+9507,   Family Man
+9510,   Gods of Egypt ( 2016 )
+9528,   Wine Country (2019)
+9670,   Ghost World (2001)
+9673,   Psycho (1960)
+9694,   Creed (2015)
+9718,   To the Bone (2017)
+9776,   Atonement (2007)
+9797,   Melancholia (2011)
+9846,   Election (1999)
+9850,   A Quiet Place (2018)
+9951,   A Separation (2011)
+9963,   God's Own Country
+9984,   Never Let Me Go (2010)
+10001,   Love Story (1970)
+10019,   Child's Play (2019)
+10022,   The Adventures Of Antoine Doinel
+10040,   The terminal (2004)
+10043,   The Reader (2008)
+10047,   50 First Dates
+10054,   Zero Day
+10055,   Jackie (2016)
+10065,   The Broken Hearts Gallery
+10067,   Red Riding Hood (2011)
+10123,   Raging Bull (1980)
+10184,   I Lost My Body (2019)
+10203,   Jeune & Jolie (2013)
+10204,   Sleepaway Camp (1983)
+10250,   Adrift (2018)
+10264,   Antichrist (2009)
+10293,   What did Jack do? (2020)
+10329,   Enemy (2013)
+10335,   Phantasm
+10346,   Seabiscuit (2003)
+10347,   The Turning (2020)
+10376,   The House That Jack Built (2018)
+10384,   You Are the Apple of My Eye (2011)
+10392,   El Ángel (2018)
+10395,   The Road Within (2015)
+10399,   Vozvrashchenie / The Return (2003)
+10403,   The Cell
+10434,   Around the World in 80 Days (1956)
+10435,   The bitter tears of Petra von Kant
+10436,   Kelly's Heroes (1970)
+10462,   Frank (2014)
+10493,   Starry Starry Night (2011)
+10497,   Penelope (2006)
+10509,   Bean (1997)
+10511,   Jeux d'enfants
+10513,   Happy as Lazzaro
+10520,   American Sniper (2014)
+10552,   Death to Smoochy (2002)
+10560,   Vox Lux (2018)
+10572,   The Broken Circle Breakdown (2012)
+10574,   Seven Pounds (2008)
+10575,   Stutterer
+10591,   Posesif (2017)
+10611,   Malèna
+10624,   Tom at The Farm (2013)
+10637,   I Confess
+10643,   Freaky Friday (1976 film)
+10652,   Masculin Feminin
+10655,   Batteries Not Included (1987)
+10657,   The Big Green
+10668,   Two Hands
+10673,   Gone Baby Gone
+10692,   Courage Mountain (1990)
+10698,   The Road Home (1999)
+10700,   Like Water for Chocolate
+10730,   Aloft
+10754,   A Man Escaped (1956)
+10758,   La Pointe Courte (1955)
+10764,   Duel (1971)
+10765,   The Garden of the Finzi-Continis (1970)
+10774,   Boy Meets Girl (1984)
+10816,   The Eagle (2011)
+10818,   A Werewolf Boy (2012)
+10828,   The Social Dilemma (2020)
+10840,   Sunset (Napszállta; 2018)
+10841,   Kim Ji-Young: Born 1982 (2019)
+10842,   Psychobitch (2019)
+10852,   KIN Fables
+10854,   The Tribes Of Palos Verdes
+10855,   The Conversation
+10867,   Cleo from 5 to 7 (1962)
+10870,   People on the Alps (1943)
+10874,   Basic Instinct
+10879,"   Who Are You, Polly Maggoo? (1966)"
+10880,   Elevator to the Gallows (1958)
+10889,   After Earth
+10897,   My Cousin Rachel
+10904,   Archive (2020)
+10906,   Open Your Eyes (abre los ojos) (1997)
+10911,   Whisky Galore!
+10914,   After Hours (1985)
+10915,   Jack Reacher (2012-2016)
+10917,   Ya no estoy aquí (I'm No Longer Here)
+10921,   Pete's Dragon (2016)
+10923,   Instant Family
+10927,   Gummo
+10928,   My Friend Dahmer
+10933,   How I Live Now
+10938,   Inuyashiki (2018)
+10943,   Begin Again (2013)
+10944,   Kimi no Me ga Toikakete Iru (Your Eyes Tell)
+10972,   The Book of Eli
+10976,   Ana e Vitória
+10987,"   Paris, Texas (1984)"
+10998,   Mystic River
+10999,   Destiny (Kader; 2006)
+11155,   Dumbo (1941)
+11268,   Chungking Express (1994)
+11285,   The Witch (2015)
+11295,   Cast Away (2000)
+11319,   The Circle (2017)
+11369,   The Brave Little Toaster (1987)
+11408,   What Ever Happened to Baby Jane? (1962)
+11423,   Dilan 1990 (2018)
+11478,   Seven Psychopaths (2012)
+11530,   In the Tall Grass (2019)
+11568,   The Innocents (1961)
+11612,   Eraserhead (1977)
+11667,   With Fire and Sword (Ogniem i Mieczem; 1999)
+11669,   Powder (1995)
+11726,   Blue Lagoon the Awakening
+11734,   The Bridges of Madison County (1995)
+11741,   Drag Me To Hell (2009)
+11821,   Welcome to the Dollhouse (1995)
+11842,   Little Manhattan
+11908,   Case 39 (2009)
+11912,   ARQ (2016)
+11916,   Stonehearst Asylum (2014)
+11918,   The Great Wall (2016)
+11940,   The Grudge
+11943,   Taare Zameen Par (Like Stars On Earth)
+11945,   Filth (2013)
+11950,   Sinister
+11953,   The Man Who Laughs (1928)
+11969,   Dear John
+11979,   The Killing of a Sacred Deer (2017)
+12005,   Dead Man Walking (1995)
+12012,   Bridge Of Spies
+12021,   Girl (2018)
+12095,   Thunder Road
+12096,   The Boy Who Harnessed the Wind
+12102,   Delicatessen (1991)
+12110,   Céline (1992)
+12130,   The Invitation (2015)
+12145,"   Raja, Ratu & Rahasia/King, Queen & Secret (2018)"
+12147,   The Railway Man
+12152,   The Exorcism of Emily Rose (2005)
+12157,   Halloween H20
+12207,   Heartbreak Ridge
+12208,   Masters of the Universe (1987)
+12217,   The Addiction (1995)
+12219,   Children of heaven
+12220,   The Cure
+12221,   Dark City
+12231,   The Magic of Ordinary Days (2005)
+12232,   The Salesman (2016)
+12245,   The To Do List
+12275,   Rules Don’t Apply (2016)
+12335,   La Notte (1961)
+12348,   The Life Aquatic with Steve Zissou
+12350,   The Killing (1956)
+12360,   The Secret: Dare to Dream (2020)
+12363,   buddha: the great departure
+12372,   Frailty (2001)
+12375,   The Lake House (2006)
+12383,   Spotlight (2015)
+12392,   28 Weeks Later
+12401,   07/27/1978
+12402,   Rob Roy (1995)
+12404,   My SO Has Got Depression (2011)
+12406,   The Zookeeper's Wife (2017)
+12421,   Arachnophobia (1990)
+12449,   Spookley the Square Pumpkin (2004)
+12591,   Evil Dead
+12609,   First Blood (1982)
+12627,   Good Time (2017)
+12642,   Lucy (2014)
+12663,   A Walk to Remember (2002)
+12677,   World War Z (2013)
+12877,   They Live (1988)
+12881,   Coco Chanel (2008)
+12884,   Predestination
+12907,   Bright (2017)
+12963,   The Gift (2015)
+12974,   Better Days (2019)
+12988,   Um Pistoleiro Chamado Papaco
+12990,   Sound of Metal (2019)
+12998,   Hellboy (2019)
+13029,   La Belle Personne
+13030,   Benny's Video (1992)
+13050,   Ghost in the Shell (2017)
+13051,   The Best of Me (2014)
+13058,   Moon (2009)
+13059,   The Italian Job (2003)
+13070,   12 Strong (2018)
+13077,   Freaky (2020)
+13079,   The Hunt (2020)
+13081,   Johnny English (2003)
+13086,   The Lone Ranger
+13106,   The Great Escape (1963)
+13165,   Risky Business (1983)
+13183,   Gentlemen Prefer Blondes (1953)
+13210,   Ava (2020)
+13211,   The Hurt Locker
+13216,   2 Fast 2 Furious
+13232,"   Halloween 4,5,6 Timeline"
+13238,   Psy
+13239,   Becky
+13251,   Rampage (2009)
+13261,   Logan Lucky
+13300,   Æon Flux ( 2005)
+13306,   The Sword in the Stone (1963)
+13332,   My Girl
+13335,   Ugetsu (1953)
+13341,   Don't Breathe
+13374,   You're Next
+13379,   The Mechanic
+13382,   Geostorm
+13384,   My Octopus Teacher (2020)
+13385,   I spit on your grave ( 1978 )
+13395,   Macbeth (2015)
+13402,   Tomb Raider (2018)
+13408,   The City of Lost Children
+13417,   Man On Fire (2004)
+13418,   Beowulf & Grendel (2005)
+13441,   The Man Who Knew Too Much (1956)
+13442,   Winged Migration (Le Peuple Migrateur)
+13456,   Shiki-Jitsu
+13476,   McFarland USA
+13484,   Conan the Barbarian (2011)
+13502,   Zardoz (1974)
+13509,"   Le Jour Se Lève (Daybreak, 1939)"
+13510,"   Crying Out Love, in the Center of the World (2004)"
+13525,   Cutthroat Island
+13527,   Andrei Rublev (1966)
+13543,   Nemesis (1992)
+13545,   Freier Fall
+13546,   O Vendedor de Sonhos
+13558,   The Big Sleep (1946)
+13568,   Oldboy (2013)
+13585,   Gregory’s Girl
+13598,   The Blood of Heroes / The Salute of the Jugger (1989)
+13600,   The Vanishing (Spoorloos; 1988)
+13607,   Romper Stomper (1992)
+13611,   Flawless (1999)
+13613,   Hard Eight (1996)
+13622,   Eagle vs Shark (2007)
+13630,   Love at First Fight
+13639,   The End? L'inferno fuori (Hell Outside)
+13641,   The Art of Racing in the Rain (2019)
+13666,   Assassin's Creed (2016)
+13708,   The Lincoln Lawyer
+13729,   Ninja Assassin
+13732,   My Spy
+13739,   The Devils (1971)
+13749,   The Commuter (2018)
+13762,   The Girl On The Train
+13766,   My Bloddy Valentine (2009)
+13780,   Les Traducteurs (The Translators)
+13983,   Mary and Max (2009)
+14139,   #Alive
+14190,   Dances with Wolves (1990)
+14226,   Locke
+14252,   Law Abiding Citizen (2009)
+14300,   I Am Legend (2007)
+14313,   Lawrence of Arabia (1962)
+14315,   On Body and Soul (2017)
+14326,   Sunset Boulevard (1950)
+14349,   Seven Years In Tibet
+14416,   Double Indemnity (1944)
+14422,   The Road (2009)
+14450,   The Jackal
+14453,   My Teacher / Suki ni Natte mo Ii Desuka? (2017)
+14473,   Chariots of Fire (1981)
+14524,   Level 16
+14552,   Argo (2012)
+14563,   A Tale of Two Sisters (2003)
+14565,   Phenomenon (1996)
+14595,   Hua Mulan (2009)
+14632,   The Migthy Ducks Trilogy
+14718,   50/50 (2011)
+14727,   Long Way North (Tout en haut du monde; 2015)
+14849,   Arlington Road (1999)
+14870,   Another Woman (1988)
+14886,   The Experiment
+14895,   Where Eagles Dare (1968)
+14902,   The Miracle Worker (1962)
+14926,   Welt am Draht - World on a Wire (1973)
+14968,   My Father And My Son
+14985,   Transcendence (2014)
+15015,   Trapped
+15018,   Street Fighter: The Legend of Chun-Li ( 2009)
+15022,   Perfume: The Story Of A Murderer
+15035,   Kamchatka (2002)
+15037,   Silence (2016)
+15099,   Prometheus
+15114,   A Moment in the Reeds
+15139,   How to Make an American Quilt (1995)
+15345,   A Rainy Day in New York (2019)
+15359,   All the Bright Places (2020)
+15416,   The Sixth Sense (1999)
+15429,   Secretary
+15441,   You Were Never Really Here (2017)
+15456,   Big Eyes (2014)
+15489,   La Vie d'Adèle (Blue Is The Warmest Color; 2013)
+15518,   In the Mood for Love (2000)
+15545,   Candyman (1992)
+15548,   Chemical Hearts
+15567,   Swiss Army Man
+15568,   Insomnia (2002)
+15611,   Qatsi trilogy
+15612,   Triangle (2009)
+15637,   Matthias & Maxime (2019)
+15644,   The Thief and the Cobbler (1993
+15664,   Bad Ronald
+15665,   The Wrestler (2008)
+15704,   Anna (Mindscape: 2013)
+15707,   The Passion of Joan of Arc
+15726,   The lover (1992)
+15731,   Repulsion
+15735,   A Christmas Carol (1938)
+15738,   Splash (1984)
+15740,   Single White Female (1992)
+15787,   NaPolA (2004)
+15812,   A Street Cat Named Bob (2016)
+15819,   Wings of Desire
+15834,   Grosse Pointe Blank (1997)
+15845,   The Fall
+15850,   Comet (2014)
+15874,   Official Secrets ( 2019)
+15890,   The Science of Sleep
+15891,   Berlin Syndrome
+15895,   Year One (2009)
+15910,   Babyteeth (2019)
+15929,   After hours
+15937,   Yellow Elephant (2013)
+15946,   Raggedy Ann & Andy: A Musical Adventure
+15953,   The Good Girl (2002)
+15966,   Amour (2012)
+15991,   Handsome Devil
+15997,   Poison Ivy (1992)
+16000,   A Monster Calls (2016)
+16006,   Free Guy (2020)
+16035,   Rapture (1965)
+16054,   The Big Blue
+16055,   Teen
+16061,   Lady Vengeance (2005)
+16065,   The Man Who Fell To Earth (1976)
+16075,   The Water Horse: Legend of the Deep (2007)
+16090,   The Voice Of The Moon ( 1990 )
+16096,"   He Won't Kill, She Won't Die (2019)"
+16119,   Anniyan
+16128,   The Hitcher (1986)
+16138,   Carrie Pilby
+16148,   Cache (2005)
+16150,   Johnny Got His Gun (1971)
+16177,   Rebels of the Neon God (1992)
+16184,   In Secret
+16197,   I Frankenstein ( 2014)
+16228,   Brothers (2009)
+16239,   Benjamin (2018)
+16247,   Untamed Heart
+16250,   The Prime of Miss Jean Brodie
+16260,   The Vanishing Of Sidney Hall
+16269,   I Stand Alone (1998)
+16276,   Nutcracker and the four realms
+16280,   Mediador
+16286,   On the Road (2012 )
+16311,   Never Rarely Sometimes Always
+16316,   Stay (2005)
+16326,   I'm Not Angry! (2014)
+16329,   Bad Boy Bubby (1993)
+16376,   Arrival (2016)
+16506,   You've Got Mail (1998)
+16556,   The Fountain (2006)
+16569,"   Synecdoche, New York (2008)"
+16605,   Stalker (1979)
+16641,   Norwegian Wood (2010)
+16653,   Face/Off (1997)
+16672,   Confessions (2010)
+16684,   Hellboy 2: The Golden Army (2008)
+16794,   Glass (2019)
+16798,   High and Low
+16820,   Baraka (1992)
+16825,   Columbus (2017)
+16841,   Still Alice
+16844,   Mary Queen of Scots (2018)
+16866,   Ring (1998)
+16879,   A Ghost Story
+16894,   Don Jon
+16902,   Stuart: A Life Backwards (2007)
+16991,   One Hour Photo
+16995,"   The Gospel According to St. Matthew (Il Vangelo secondo Matteo, 1964)"
+16998,   A Most Violent Year
+17006,   Another Me (2013)
+17027,"   Truly, Madly, Deeply ( 1990)"
+17028,   Somewhere in Time (1980)
+17041,   In A Glass Cage
+17045,   The Mission (1986)
+17061,"   My Tomorrow, Your Yesterday (2016)"
+17071,   Meshes Of The Afternoon (1943)
+17074,   The Three Musketeers (2011)
+17091,   Juliet Of The Spirits (1965)
+17096,   Dersu Uzala (1975)
+17125,   Kogustaki Mucize 7
+17155,   Rem Lazar (1989)
+17156,   A Little Chaos ( 2014 )
+17196,   Trzecia część nocy (1972)
+17209,   The Princess and the Goblin (1990)
+17232,   Three Colours trilogy
+17244,   The Thin Red Line (1998)
+17248,   The Other Lamb
+17492,   It’s Such a Beautiful Day (2012)
+17536,   8 1/2
+17558,   Radioactive (2019)
+17564,   The Adventures Of Mark Twain
+17643,   Geek Charming (2011)
+17655,   Straight Up (2020)
+17669,   Brick
+17733,   Superhero Movie (2008)
+17753,   Straw Dogs(1971)
+17763,   The Great War of Archimedes (2019)
+17785,   Sea of Love (1989)
+17797,   The Postcard Killings
+17845,   Two Lovers (2008)
+17858,   Three Days Of The Condor
+17873,   12 Rounds (2009)
+17918,   Lady Chatterley's Lover (2015)
+17922,   Hogfather (2006)
+17929,   Mother (2020)
+17931,   Nobody knows
+18123,   Red Sparrow (2018)
+18140,   Le Samouraï
+18154,   Miss Sloane
+18195,   Hitman (2007-2015)
+18215,   The Hustle (2019)
+18324,   Pale Rider (1985)
+18341,   I Saw the Devil (2010)
+18393,   Appointment with Death ( 1988)
+18396,   Red Eye (2005)
+18471,   The Man from Nowhere (2010)
+18474,   Saturn 3 (1980)
+18504,   Lifeforce (1985)
+18558,   Dracula: Prince of Darkness (1966)
+18577,   The Silence of the Marsh (2019)
+18586,   Beyond Words (2017)
+18587,   The Hunger (1983)
+18615,   Throne of Blood (1957)
+18656,   The Joy Luck Club
+18660,   The incredible Hulk 2007
+18675,   The Killers
+18689,   Logan's Run (1976)
+18711,   Millennium series (Swedish 2009)
+18714,   The 6th Day (2000)
+18730,   The Switch (2010)
