@@ -1,0 +1,93 @@
+.modal_container {
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.1);
+    z-index: 10;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    text-align: left;
+}
+
+.modal {
+    width: 1000px;
+    height: 100%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    background-color: #fff;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+
+    z-index: 100;
+}
+
+.modal_button {
+    position: relative;
+    width: 70px;
+    height: 70px;
+
+    left: 900px;
+    top: 10px;
+
+    cursor: pointer;
+}
+
+.modal_img {
+    position: absolute;
+    width: 275px;
+    height: 350px;
+    left: 80px;
+    top: 50px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.3));
+}
+
+.modal_movie_info_container {
+    position: absolute;
+    width: 500px;
+    height: 320px;
+    left: 400px;
+    top: 50px;
+
+    font-size: 25px;
+    line-height: 50px;
+}
+
+.modal_movie_story_container {
+    position: absolute;
+    width: 800px;
+    height: 1300px;
+    left: 80px;
+    top: 440px;
+
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.RatingContainer {
+    position: absolute;
+    width: 500px;
+    height: 50px;
+
+    left: 400px;
+    top: 355px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.modal_rating_send {
+    position: absolute;
+    
+    left: 300px;
+    top: 2px;
+
+    cursor: pointer;
+}

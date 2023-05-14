@@ -1,0 +1,158 @@
+#container {
+    position: relative;
+    width: 1440px;
+    height: auto;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    position: absolute;
+    width: 150px;
+    height: 70px;
+    left: 50%;
+    top: 15px;
+    transform: translate(-50%);
+
+    font-size: 50px;
+    line-height: 70px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+#divider {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    height: 100px;
+
+    border-bottom: rgba(0, 0, 0, 0.3) solid 2px ;
+
+    background-color: #FFEE93;
+
+    z-index: -10;
+}
+
+#btnbox {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+}
+
+.prevbtn {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+
+    cursor: pointer;
+}
+
+.homebtn {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1355px;
+    top: 20px;
+
+    cursor: pointer;
+}
+
+.charlist {
+    position: relative;
+    width: 1340px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    top: 180px;
+
+    margin-bottom: 100px;
+
+    display: grid;
+    grid-template-columns: repeat(4, 300px);
+
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.char_name {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    top: 150px;
+
+    font-size: 40px;
+    line-height: 80px;
+
+    text-align: center;
+    align-items: center;
+
+    display: grid;
+}
+
+.char_list {
+    position: fixed;
+    top: 200px;
+    right: 5%;
+
+    height: 100%;
+}
+
+.char_img {
+    position: relative;
+
+    width: 100px;
+    height: 100px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.5));
+
+    margin-bottom: 25px;
+
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.char_img:hover {
+    filter: brightness(70%);
+}
+
+.movie_img {
+    width: 220px;
+    height: 320px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.5));
+
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.movie_img:hover {
+    filter: brightness(70%);
+}
+
+.movie_name {
+    width: 270px;
+    height: 60px;
+
+    font-size: 20px;
+    line-height: 30px;
+
+    margin-top: 15px;
+    margin-bottom: 50px;
+
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}

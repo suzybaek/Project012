@@ -1,0 +1,169 @@
+#container {
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    position: absolute;
+    width: 150px;
+    height: 70px;
+    left: 50%;
+    top: 15px;
+    transform: translate(-50%);
+
+    font-size: 50px;
+    line-height: 70px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: black;
+}
+
+#btnbox {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+}
+
+.prevbtn {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+
+    cursor: pointer;
+}
+
+#divider {
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    height: 100px;
+
+    border-bottom: rgba(0, 0, 0, 0.3) solid 2px ;
+
+    background-color: #FFEE93;
+
+    z-index: -10;
+}
+
+#img {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%);
+    line-height: 400px;
+    background: #e7e7e7;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.imgwrapper{
+    background-color: #FFEE93!important;
+    width: 700px!important;
+}
+
+.contentimg {
+    height: 90%;
+    vertical-align: middle;
+    display: inline-block;
+    border: 5 solid grey;
+}
+
+#maintext1 {
+    position: absolute;
+    width: 800px;
+    height: 65px;
+    top: 600px;
+    left: 50%;
+    transform: translate(-50%);
+
+    font-size: 30px;
+    line-height: 70px;
+
+    display: flex;
+    align-items: center;
+
+    color: black;
+}
+
+#maintext2 {
+    position: absolute;
+    width: 800px;
+    height: 65px;
+    top: 665px;
+    left: 50%;
+    transform: translate(-50%);
+
+    font-size: 50px;
+    line-height: 70px;
+
+    display: flex;
+    align-items: center;
+
+    color: black;
+}
+
+#leftbtn {
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 395px;
+    top: 780px;
+
+    font-size: 30px;
+    line-height: 70px;
+
+    align-items: center;
+    text-align: center;
+
+    color: black;
+
+    background: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+#rightbtn {
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 745px;
+    top: 780px;
+
+    font-size: 30px;
+    line-height: 70px;
+
+    align-items: center;
+    text-align: center;
+
+    color: black;
+
+    background: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 50px;
+
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+#leftbtn:hover, #rightbtn:hover {
+    background-color: #FFEE93;
+}
